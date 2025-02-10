@@ -6,10 +6,15 @@ This project integrates Supabase (PostgreSQL) for data storage, React for the fr
 
 # 🚀 Features
 📊 Player Database: Displays all NBA players in an interactive table with sortable and filterable columns.
+
 🃏 Player Card Component: Fetches player images from the NBA API and displays detailed career statistics.
+
 🎯 Shot Charts: Visual representation of player shooting performance.
+
 📈 Percentile Rankings: Highlights player strengths by comparing stats to league-wide percentiles.
+
 🔄 Data Persistence: Stores scraped data in Supabase, ensuring a reliable and scalable backend.
+
 🌐 Fully Deployed: The app is live on Vercel, providing a seamless user experience.
 
 
