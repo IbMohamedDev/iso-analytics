@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.link-styles:hover{
+    text-decoration: underline;
+}
+
