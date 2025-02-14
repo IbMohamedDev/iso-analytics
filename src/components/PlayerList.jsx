@@ -12,7 +12,7 @@ export const PlayerList = () => {
   const [teamFilter, setTeamFilter] = useState('');
   const [positionFilter, setPositionFilter] = useState('');
   const itemsPerPage = 20;
-  const [playerImages, setPlayerImages] = useState({});
+  //const [playerImages, setPlayerImages] = useState({});
 
   const apiUrl = import.meta.env.VITE_API_URL;
 
@@ -68,27 +68,27 @@ export const PlayerList = () => {
 
   
 
-  useEffect(() => {
-    const fetchImages = async () => {
-      try {
-        const playerNames = selectedData.map(player => player.player);
-        const url = new URL('${apiUrl}/players/imgs');
-        const params = { players: playerNames };
-        url.search = new URLSearchParams(params).toString();
+  // useEffect(() => {
+  //   const fetchImages = async () => {
+  //     try {
+  //       const playerNames = selectedData.map(player => player.player);
+  //       const url = new URL('${apiUrl}/players/imgs');
+  //       const params = { players: playerNames };
+  //       url.search = new URLSearchParams(params).toString();
 
-        const response = await fetch(url);
-        const imageData = await response.json();
+  //       const response = await fetch(url);
+  //       const imageData = await response.json();
 
-        setPlayerImages(imageData);
-      } catch (error) {
-        console.error('Failed to fetch images:', error);
-      }
-    };
+  //       setPlayerImages(imageData);
+  //     } catch (error) {
+  //       console.error('Failed to fetch images:', error);
+  //     }
+  //   };
 
-    if (selectedData.length) {
-      fetchImages();
-    }
-  }, [selectedData]);
+  //   if (selectedData.length) {
+  //     fetchImages();
+  //   }
+  // }, [selectedData]);
 
   if (loading) return <div className="p-4">Loading...</div>;
 
@@ -136,18 +136,18 @@ export const PlayerList = () => {
         <tbody>
           {selectedData.map((player, index) => {
             const playerStats = stats[player.player_id] || {};
-            const playerImage = playerImages[player.player];
+            //const playerImage = playerImages[player.player];
             return (
               <tr key={index} className="border-t hover:bg-gray-300">
                 <TableCell>
                   <div className="flex items-center space-x-2">
-                    {playerImage && (
+                    {/* {playerImage && (
                       <img
                         src={playerImage}
                         alt={player.player}
                         className="w-10 h-10 rounded-full"
                       />
-                    )}
+                    )} */}
                     <Link to={`/player/${player.player_id}`} className="link-styles">
                       {player.player}
                     </Link>
