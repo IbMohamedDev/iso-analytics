@@ -196,6 +196,7 @@ export const PlayerCard = ({ playerData }) => {
         <p className="uppercase text-gray-600">Drafted</p>
         <p className="font-bold">No. {player.draft_number} overall, {player.draft_year}</p>
       </div>
+      
     </div>
   );
 };

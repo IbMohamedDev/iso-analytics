@@ -44,6 +44,7 @@ export const PlayerPercentiles = ({ playerRapportRanking }) => {
         ))}
       </div>
       
+      
       {/* X-axis labels */}
       <div className="flex justify-between mt-2 px-24">
         <div className="text-sm text-gray-500">0</div>

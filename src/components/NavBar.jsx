@@ -19,6 +19,8 @@ export const NavBar = () => {
         {/* Right - Newsletter Signup */}
         <div className="flex items-center space-x-3 ml-auto">
       
+
+      
          
         </div>
       </div>
