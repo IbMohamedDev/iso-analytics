@@ -1,0 +1,1980 @@
+,Season,Player,Team,Award,Tm,bball_id
+0,1976-77,Adrian Dantley,BUF,ROY,,dantlad01
+1,1996-97,Allen Iverson,PHI,ROY,,iversal01
+2,1998-99,Allen Iverson,,All-NBA,,iversal01
+3,2000-01,Allen Iverson,,All-NBA,,iversal01
+4,2000-01,Allen Iverson,PHI,MVP,,iversal01
+5,2004-05,Allen Iverson,,All-NBA,,iversal01
+6,1998-99,Alonzo Mourning,,All-Defensive,,mournal01
+7,1998-99,Alonzo Mourning,,All-NBA,,mournal01
+8,1998-99,Alonzo Mourning,MIA,DPOY,,mournal01
+9,1999-00,Alonzo Mourning,,All-Defensive,,mournal01
+10,1999-00,Alonzo Mourning,MIA,DPOY,,mournal01
+11,1975-76,Alvan Adams,PHO,ROY,,adamsal01
+12,1985-86,Alvin Robertson,SAS,DPOY,,roberal01
+13,1986-87,Alvin Robertson,,All-Defensive,,roberal01
+14,1990-91,Alvin Robertson,,All-Defensive,,roberal01
+15,2002-03,Amar'e Stoudemire,PHO,ROY,,stoudam01
+16,2006-07,Amar'e Stoudemire,,All-NBA,,stoudam01
+17,2014-15,Andre Iguodala,GSW,FMVP,,iguodan01
+18,2005-06,Andrei Kirilenko,,All-Defensive,,kirilan01
+19,2014-15,Andrew Wiggins,MIN,ROY,,wiggian01
+20,1994-95,Anfernee Hardaway,,All-NBA,,hardaan01
+21,1995-96,Anfernee Hardaway,,All-NBA,,hardaan01
+22,2014-15,Anthony Davis,,All-NBA,,davisan02
+23,2016-17,Anthony Davis,,All-NBA,,davisan02
+24,2017-18,Anthony Davis,,All-NBA,,davisan02
+25,2019-20,Anthony Davis,,All-NBA,,davisan02
+26,1971-72,Artis Gilmore,,All-NBA,,gilmoar01
+27,1972-73,Artis Gilmore,,All-Defensive,,gilmoar01
+28,1972-73,Artis Gilmore,,All-NBA,,gilmoar01
+29,1973-74,Artis Gilmore,,All-NBA,,gilmoar01
+30,1974-75,Artis Gilmore,,All-Defensive,,gilmoar01
+31,1974-75,Artis Gilmore,,All-NBA,,gilmoar01
+32,1975-76,Artis Gilmore,,All-Defensive,,gilmoar01
+33,1975-76,Artis Gilmore,,All-NBA,,gilmoar01
+34,2017-18,Ben Simmons,PHI,ROY,,simmobe01
+35,2001-02,Ben Wallace,,All-Defensive,,wallabe01
+36,2001-02,Ben Wallace,DET,DPOY,,wallabe01
+37,2002-03,Ben Wallace,,All-Defensive,,wallabe01
+38,2002-03,Ben Wallace,DET,DPOY,,wallabe01
+39,2003-04,Ben Wallace,,All-Defensive,,wallabe01
+40,2004-05,Ben Wallace,,All-Defensive,,wallabe01
+41,2004-05,Ben Wallace,DET,DPOY,,wallabe01
+42,2005-06,Ben Wallace,,All-Defensive,,wallabe01
+43,2005-06,Ben Wallace,DET,DPOY,,wallabe01
+44,1983-84,Bernard King,,All-NBA,,kingbe01
+45,1984-85,Bernard King,,All-NBA,,kingbe01
+46,1971-72,Bill Melchionni,,All-NBA,,melchbi01
+47,1957-58,Bill Russell,BOS,MVP,,russebi01
+48,1958-59,Bill Russell,,All-NBA,,russebi01
+49,1960-61,Bill Russell,BOS,MVP,,russebi01
+50,1961-62,Bill Russell,BOS,MVP,,russebi01
+51,1962-63,Bill Russell,,All-NBA,,russebi01
+52,1962-63,Bill Russell,BOS,MVP,,russebi01
+53,1964-65,Bill Russell,,All-NBA,,russebi01
+54,1964-65,Bill Russell,BOS,MVP,,russebi01
+55,1968-69,Bill Russell,,All-Defensive,,russebi01
+56,1955-56,Bill Sharman,,All-NBA,,sharmbi01
+57,1956-57,Bill Sharman,,All-NBA,,sharmbi01
+58,1957-58,Bill Sharman,,All-NBA,,sharmbi01
+59,1958-59,Bill Sharman,,All-NBA,,sharmbi01
+60,1976-77,Bill Walton,,All-Defensive,,waltobi01
+61,1976-77,Bill Walton,POR,FMVP,,waltobi01
+62,1977-78,Bill Walton,,All-Defensive,,waltobi01
+63,1977-78,Bill Walton,,All-NBA,,waltobi01
+64,1977-78,Bill Walton,POR,MVP,,waltobi01
+65,1968-69,Billy Cunningham,,All-NBA,,cunnibi01
+66,1969-70,Billy Cunningham,,All-NBA,,cunnibi01
+67,1970-71,Billy Cunningham,,All-NBA,,cunnibi01
+68,1972-73,Billy Cunningham,,All-NBA,,cunnibi01
+69,1975-76,Billy Knight,,All-NBA,,knighbi01
+70,2010-11,Blake Griffin,LAC,ROY,,griffbl01
+71,1951-52,Bob Cousy,,All-NBA,,cousybo01
+72,1952-53,Bob Cousy,,All-NBA,,cousybo01
+73,1953-54,Bob Cousy,,All-NBA,,cousybo01
+74,1954-55,Bob Cousy,,All-NBA,,cousybo01
+75,1955-56,Bob Cousy,,All-NBA,,cousybo01
+76,1956-57,Bob Cousy,,All-NBA,,cousybo01
+77,1956-57,Bob Cousy,BOS,MVP,,cousybo01
+78,1957-58,Bob Cousy,,All-NBA,,cousybo01
+79,1958-59,Bob Cousy,,All-NBA,,cousybo01
+80,1959-60,Bob Cousy,,All-NBA,,cousybo01
+81,1960-61,Bob Cousy,,All-NBA,,cousybo01
+82,1978-79,Bob Dandridge,,All-Defensive,,dandrbo01
+83,1950-51,Ralph Beard,,All-NBA,,beardra01
+84,1950-51,Bob Davies,,All-NBA,,daviebo01
+85,1950-51,Alex Groza,,All-NBA,,grozaal01
+86,1950-51,Ed Macauley,,All-NBA,,macaued01
+87,1950-51,George Mikan,,All-NBA,,mikange01
+88,1949-50,Bob Davies,,All-NBA,,daviebo01
+89,1949-50,Alex Groza,,All-NBA,,grozaal01
+90,1949-50,George Mikan,,All-NBA,,mikange01
+91,1949-50,Jim Pollard,,All-NBA,,pollaji01
+92,1949-50,Max Zaslofsky,,All-NBA,,zasloma01
+93,1948-49,Bob Davies,,All-NBA,,daviebo01
+94,1948-49,Joe Fulks,,All-NBA,,fulksjo01
+95,1948-49,George Mikan,,All-NBA,,mikange01
+96,1948-49,Jim Pollard,,All-NBA,,pollaji01
+97,1948-49,Max Zaslofsky,,All-NBA,,zasloma01
+98,1947-48,Howie Dallmar,,All-NBA,,dallmho01
+99,1947-48,Bob Feerick,,All-NBA,,feeribo01
+100,1947-48,Joe Fulks,,All-NBA,,fulksjo01
+101,1947-48,Ed Sadowski,,All-NBA,,sadowed01
+102,1947-48,Max Zaslofsky,,All-NBA,,zasloma01
+103,1946-47,Bob Feerick,,All-NBA,,feeribo01
+104,1946-47,Joe Fulks,,All-NBA,,fulksjo01
+105,1946-47,Bones McKinney,,All-NBA,,mckinbo01
+106,1946-47,Stan Miasek,,All-NBA,,miasest01
+107,1946-47,Max Zaslofsky,,All-NBA,,zasloma01
+108,2023-24,Rudy Gobert,,All-Defensive,,goberru01
+109,2023-24,Victor Wembanyama,,All-Defensive,,wembavi01
+110,2023-24,Bam Adebayo,,All-Defensive,,adebaba01
+111,2023-24,Herbert Jones,,All-Defensive,,joneshe01
+112,2023-24,Anthony Davis,,All-Defensive,,davisan02
+113,2022-23,Alex Caruso,,All-Defensive,,carusal01
+114,2022-23,Jrue Holiday,,All-Defensive,,holidjr01
+115,2022-23,Jaren Jackson,,All-Defensive,,jacksja01
+116,2022-23,Brook Lopez,,All-Defensive,,lopezbr01
+117,2022-23,Evan Mobley,,All-Defensive,,mobleev01
+118,2021-22,Giannis Antetokounmpo,,All-Defensive,,antetgi01
+119,2021-22,Mikal Bridges,,All-Defensive,,bridgmi01
+120,2021-22,Rudy Gobert,,All-Defensive,,goberru01
+121,2021-22,Jaren Jackson,,All-Defensive,,jacksja01
+122,2021-22,Marcus Smart,,All-Defensive,,smartma01
+123,2020-21,Rudy Gobert,,All-Defensive,,goberru01
+124,2020-21,Ben Simmons,,All-Defensive,,simmobe01
+125,2020-21,Draymond Green,,All-Defensive,,greendr01
+126,2020-21,Jrue Holiday,,All-Defensive,,holidjr01
+127,2020-21,Giannis Antetokounmpo,,All-Defensive,,antetgi01
+128,2019-20,Giannis Antetokounmpo,,All-Defensive,,antetgi01
+129,2019-20,Anthony Davis,,All-Defensive,,davisan02
+130,2019-20,Ben Simmons,,All-Defensive,,simmobe01
+131,2019-20,Rudy Gobert,,All-Defensive,,goberru01
+132,2019-20,Marcus Smart,,All-Defensive,,smartma01
+133,2018-19,Rudy Gobert,,All-Defensive,,goberru01
+134,2018-19,Paul George,,All-Defensive,,georgpa01
+135,2018-19,Giannis Antetokounmpo,,All-Defensive,,antetgi01
+136,2018-19,Marcus Smart,,All-Defensive,,smartma01
+137,2018-19,Eric Bledsoe,,All-Defensive,,bledser01
+138,2017-18,Rudy Gobert,,All-Defensive,,goberru01
+139,2017-18,Anthony Davis,,All-Defensive,,davisan02
+140,2017-18,Victor Oladipo,,All-Defensive,,oladivi01
+141,2017-18,Robert Covington,,All-Defensive,,covinro01
+142,2017-18,Jrue Holiday,,All-Defensive,,holidjr01
+143,2016-17,Kawhi Leonard,,All-Defensive,,leonaka01
+144,2016-17,Draymond Green,,All-Defensive,,greendr01
+145,2016-17,Rudy Gobert,,All-Defensive,,goberru01
+146,2016-17,Patrick Beverley,,All-Defensive,,beverpa01
+147,2016-17,Chris Paul,,All-Defensive,,paulch01
+148,2015-16,Kawhi Leonard,,All-Defensive,,leonaka01
+149,2015-16,Draymond Green,,All-Defensive,,greendr01
+150,2015-16,DeAndre Jordan,,All-Defensive,,jordade01
+151,2015-16,Avery Bradley,,All-Defensive,,bradlav01
+152,2015-16,Chris Paul,,All-Defensive,,paulch01
+153,2014-15,Kawhi Leonard,,All-Defensive,,leonaka01
+154,2014-15,Draymond Green,,All-Defensive,,greendr01
+155,2014-15,Tony Allen,,All-Defensive,,allento01
+156,2014-15,DeAndre Jordan,,All-Defensive,,jordade01
+157,2014-15,Chris Paul,,All-Defensive,,paulch01
+158,2013-14,Joakim Noah,,All-Defensive,,noahjo01
+159,2013-14,Paul George,,All-Defensive,,georgpa01
+160,2013-14,Chris Paul,,All-Defensive,,paulch01
+161,2013-14,Serge Ibaka,,All-Defensive,,ibakase01
+162,2013-14,Andre Iguodala,,All-Defensive,,iguodan01
+163,2012-13,Tony Allen,,All-Defensive,,allento01
+164,2012-13,Serge Ibaka,,All-Defensive,,ibakase01
+165,2012-13,LeBron James,,All-Defensive,,jamesle01
+166,2012-13,Chris Paul,,All-Defensive,,paulch01
+167,2012-13,Tyson Chandler,,All-Defensive,,chandty01
+168,1972-73,Bob McAdoo,BUF,ROY,,mcadobo01
+169,1974-75,Bob McAdoo,,All-NBA,,mcadobo01
+170,1974-75,Bob McAdoo,BUF,MVP,,mcadobo01
+171,1954-55,Bob Pettit,,All-NBA,,pettibo01
+172,1954-55,Bob Pettit,MLH,ROY,,pettibo01
+173,1955-56,Bob Pettit,,All-NBA,,pettibo01
+174,1955-56,Bob Pettit,STL,MVP,,pettibo01
+175,1956-57,Bob Pettit,,All-NBA,,pettibo01
+176,1957-58,Bob Pettit,,All-NBA,,pettibo01
+177,1958-59,Bob Pettit,,All-NBA,,pettibo01
+178,1958-59,Bob Pettit,STL,MVP,,pettibo01
+179,1959-60,Bob Pettit,,All-NBA,,pettibo01
+180,1960-61,Bob Pettit,,All-NBA,,pettibo01
+181,1961-62,Bob Pettit,,All-NBA,,pettibo01
+182,1962-63,Bob Pettit,,All-NBA,,pettibo01
+183,1963-64,Bob Pettit,,All-NBA,,pettibo01
+184,1969-70,Bob Verga,,All-NBA,,vergabo01
+185,1974-75,Bobby Jones,,All-Defensive,,jonesbo01
+186,1974-75,Bobby Jones,,All-Defensive,,jonesbo02
+187,1975-76,Bobby Jones,,All-Defensive,,jonesbo01
+188,1975-76,Bobby Jones,,All-Defensive,,jonesbo02
+189,1976-77,Bobby Jones,,All-Defensive,,jonesbo01
+190,1976-77,Bobby Jones,,All-Defensive,,jonesbo02
+191,1977-78,Bobby Jones,,All-Defensive,,jonesbo01
+192,1977-78,Bobby Jones,,All-Defensive,,jonesbo02
+193,1978-79,Bobby Jones,,All-Defensive,,jonesbo01
+194,1978-79,Bobby Jones,,All-Defensive,,jonesbo02
+195,1982-83,Bobby Jones,,All-Defensive,,jonesbo01
+196,1982-83,Bobby Jones,,All-Defensive,,jonesbo02
+197,1983-84,Bobby Jones,,All-Defensive,,jonesbo01
+198,1983-84,Bobby Jones,,All-Defensive,,jonesbo02
+199,2006-07,Brandon Roy,POR,ROY,,roybr01
+200,1974-75,Brian Taylor,,All-Defensive,,taylobr01
+201,1975-76,Brian Taylor,,All-Defensive,,taylobr01
+202,2003-04,Bruce Bowen,,All-Defensive,,bowenbr01
+203,2004-05,Bruce Bowen,,All-Defensive,,bowenbr01
+204,2005-06,Bruce Bowen,,All-Defensive,,bowenbr01
+205,2006-07,Bruce Bowen,,All-Defensive,,bowenbr01
+206,2007-08,Bruce Bowen,,All-Defensive,,bowenbr01
+207,1981-82,Buck Williams,NJN,ROY,,willibu01
+208,1989-90,Buck Williams,,All-Defensive,,willibu01
+209,1990-91,Buck Williams,,All-Defensive,,willibu01
+210,1980-81,Cedric Maxwell,BOS,FMVP,,maxwece01
+211,1987-88,Charles Barkley,,All-NBA,,barklch01
+212,1988-89,Charles Barkley,,All-NBA,,barklch01
+213,1989-90,Charles Barkley,,All-NBA,,barklch01
+214,1990-91,Charles Barkley,,All-NBA,,barklch01
+215,1992-93,Charles Barkley,,All-NBA,,barklch01
+216,1992-93,Charles Barkley,PHO,MVP,,barklch01
+217,1993-94,Charles Oakley,,All-Defensive,,oaklech01
+218,1970-71,Charlie Scott,,All-NBA,,scottch01
+219,2003-04,Chauncey Billups,DET,FMVP,,billuch01
+220,1991-92,Chris Mullin,,All-NBA,,mullich01
+221,2005-06,Chris Paul,NOK,ROY,,paulch01
+222,2007-08,Chris Paul,,All-NBA,,paulch01
+223,2008-09,Chris Paul,,All-Defensive,,paulch01
+224,2011-12,Chris Paul,,All-Defensive,,paulch01
+225,2011-12,Chris Paul,,All-NBA,,paulch01
+226,2012-13,Chris Paul,,All-NBA,,paulch01
+227,2013-14,Chris Paul,,All-NBA,,paulch01
+228,1993-94,Chris Webber,GSW,ROY,,webbech01
+229,2000-01,Chris Webber,,All-NBA,,webbech01
+230,1986-87,Chuck Person,IND,ROY,,persoch01
+231,1991-92,Clyde Drexler,,All-NBA,,drexlcl01
+232,1967-68,Connie Hawkins,,All-NBA,,hawkico01
+233,1968-69,Connie Hawkins,,All-NBA,,hawkico01
+234,1969-70,Connie Hawkins,,All-NBA,,hawkico01
+235,2012-13,Damian Lillard,POR,ROY,,lillada01
+236,2017-18,Damian Lillard,,All-NBA,,lillada01
+237,1995-96,Damon Stoudamire,TOR,ROY,,stoudda01
+238,1971-72,Dan Issel,,All-NBA,,isselda01
+239,1982-83,Dan Roundfield,,All-Defensive,,roundda01
+240,1980-81,Darrell Griffith,UTA,ROY,,griffda01
+241,1966-67,Dave Bing,DET,ROY,,bingda01
+242,1967-68,Dave Bing,,All-NBA,,bingda01
+243,1970-71,Dave Bing,,All-NBA,,bingda01
+244,1972-73,Dave Cowens,BOS,MVP,,cowenda01
+245,1975-76,Dave Cowens,,All-Defensive,,cowenda01
+246,1968-69,Dave DeBusschere,,All-Defensive,,debusda01
+247,1969-70,Dave DeBusschere,,All-Defensive,,debusda01
+248,1970-71,Dave DeBusschere,,All-Defensive,,debusda01
+249,1972-73,Dave DeBusschere,,All-Defensive,,debusda01
+250,1973-74,Dave DeBusschere,,All-Defensive,,debusda01
+251,1989-90,David Robinson,SAS,ROY,,robinda01
+252,1990-91,David Robinson,,All-Defensive,,robinda01
+253,1990-91,David Robinson,,All-NBA,,robinda01
+254,1991-92,David Robinson,,All-Defensive,,robinda01
+255,1991-92,David Robinson,,All-NBA,,robinda01
+256,1991-92,David Robinson,SAS,DPOY,,robinda01
+257,1994-95,David Robinson,,All-Defensive,,robinda01
+258,1994-95,David Robinson,,All-NBA,,robinda01
+259,1994-95,David Robinson,SAS,MVP,,robinda01
+260,1995-96,David Robinson,,All-Defensive,,robinda01
+261,1995-96,David Robinson,,All-NBA,,robinda01
+262,1976-77,David Thompson,,All-NBA,,thompda01
+263,1977-78,David Thompson,,All-NBA,,thompda01
+264,2015-16,DeAndre Jordan,,All-NBA,,jordade01
+265,1978-79,Dennis Johnson,,All-Defensive,,johnsde01
+266,1978-79,Dennis Johnson,SEA,FMVP,,johnsde01
+267,1980-81,Dennis Johnson,,All-NBA,,johnsde01
+268,1986-87,Dennis Johnson,,All-Defensive,,johnsde01
+269,1988-89,Dennis Rodman,,All-Defensive,,rodmade01
+270,1989-90,Dennis Rodman,,All-Defensive,,rodmade01
+271,1989-90,Dennis Rodman,DET,DPOY,,rodmade01
+272,1990-91,Dennis Rodman,,All-Defensive,,rodmade01
+273,1990-91,Dennis Rodman,DET,DPOY,,rodmade01
+274,1991-92,Dennis Rodman,,All-Defensive,,rodmade01
+275,1992-93,Dennis Rodman,,All-Defensive,,rodmade01
+276,1994-95,Dennis Rodman,,All-Defensive,,rodmade01
+277,1995-96,Dennis Rodman,,All-Defensive,,rodmade01
+278,1990-91,Derrick Coleman,NJN,ROY,,colemde01
+279,2008-09,Derrick Rose,CHI,ROY,,rosede01
+280,2010-11,Derrick Rose,,All-NBA,,rosede01
+281,2010-11,Derrick Rose,CHI,MVP,,rosede01
+282,2021-22,Devin Booker,,All-NBA,,bookede01
+283,1994-95,Dikembe Mutombo,DEN,DPOY,,mutomdi01
+284,1996-97,Dikembe Mutombo,,All-Defensive,,mutomdi01
+285,1996-97,Dikembe Mutombo,ATL,DPOY,,mutomdi01
+286,1997-98,Dikembe Mutombo,,All-Defensive,,mutomdi01
+287,1997-98,Dikembe Mutombo,ATL,DPOY,,mutomdi01
+288,2000-01,Dikembe Mutombo,,All-Defensive,,mutomdi01
+289,2000-01,Dikembe Mutombo,TOT,DPOY,,mutomdi01
+290,2004-05,Dirk Nowitzki,,All-NBA,,nowitdi01
+291,2005-06,Dirk Nowitzki,,All-NBA,,nowitdi01
+292,2006-07,Dirk Nowitzki,,All-NBA,,nowitdi01
+293,2006-07,Dirk Nowitzki,DAL,MVP,,nowitdi01
+294,2008-09,Dirk Nowitzki,,All-NBA,,nowitdi01
+295,2010-11,Dirk Nowitzki,DAL,FMVP,,nowitdi01
+296,1952-53,Dolph Schayes,,All-NBA,,schaydo01
+297,1953-54,Dolph Schayes,,All-NBA,,schaydo01
+298,1954-55,Dolph Schayes,,All-NBA,,schaydo01
+299,1956-57,Dolph Schayes,,All-NBA,,schaydo01
+300,1957-58,Dolph Schayes,,All-NBA,,schaydo01
+301,1985-86,Dominique Wilkins,,All-NBA,,wilkido01
+302,1974-75,Don Buse,,All-Defensive,,busedo01
+303,1975-76,Don Buse,,All-Defensive,,busedo01
+304,1976-77,Don Buse,,All-Defensive,,busedo01
+305,1977-78,Don Buse,,All-Defensive,,busedo01
+306,1978-79,Don Buse,,All-Defensive,,busedo01
+307,1971-72,Donnie Freeman,,All-NBA,,freemdo01
+308,2002-03,Doug Christie,,All-Defensive,,chrisdo01
+309,1967-68,Doug Moe,,All-NBA,,moedo01
+310,2016-17,Draymond Green,GSW,DPOY,,greendr01
+311,2007-08,Dwight Howard,,All-NBA,,howardw01
+312,2008-09,Dwight Howard,,All-Defensive,,howardw01
+313,2008-09,Dwight Howard,,All-NBA,,howardw01
+314,2008-09,Dwight Howard,ORL,DPOY,,howardw01
+315,2009-10,Dwight Howard,,All-Defensive,,howardw01
+316,2009-10,Dwight Howard,,All-NBA,,howardw01
+317,2009-10,Dwight Howard,ORL,DPOY,,howardw01
+318,2010-11,Dwight Howard,,All-Defensive,,howardw01
+319,2010-11,Dwight Howard,,All-NBA,,howardw01
+320,2010-11,Dwight Howard,ORL,DPOY,,howardw01
+321,2011-12,Dwight Howard,,All-Defensive,,howardw01
+322,2011-12,Dwight Howard,,All-NBA,,howardw01
+323,2005-06,Dwyane Wade,MIA,FMVP,,wadedw01
+324,2008-09,Dwyane Wade,,All-NBA,,wadedw01
+325,2009-10,Dwyane Wade,,All-NBA,,wadedw01
+326,1976-77,E.C. Coleman,,All-Defensive,,colemec01
+327,1967-68,Earl Monroe,BAL,ROY,,monroea01
+328,1968-69,Earl Monroe,,All-NBA,,monroea01
+329,1951-52,Ed Macauley,,All-NBA,,macaued01
+330,1952-53,Ed Macauley,,All-NBA,,macaued01
+331,1958-59,Elgin Baylor,,All-NBA,,bayloel01
+332,1958-59,Elgin Baylor,MNL,ROY,,bayloel01
+333,1959-60,Elgin Baylor,,All-NBA,,bayloel01
+334,1960-61,Elgin Baylor,,All-NBA,,bayloel01
+335,1961-62,Elgin Baylor,,All-NBA,,bayloel01
+336,1962-63,Elgin Baylor,,All-NBA,,bayloel01
+337,1963-64,Elgin Baylor,,All-NBA,,bayloel01
+338,1964-65,Elgin Baylor,,All-NBA,,bayloel01
+339,1966-67,Elgin Baylor,,All-NBA,,bayloel01
+340,1967-68,Elgin Baylor,,All-NBA,,bayloel01
+341,1968-69,Elgin Baylor,,All-NBA,,bayloel01
+342,1974-75,Elvin Hayes,,All-NBA,,hayesel01
+343,1976-77,Elvin Hayes,,All-NBA,,hayesel01
+344,1978-79,Elvin Hayes,,All-NBA,,hayesel01
+345,2004-05,Emeka Okafor,CHA,ROY,,okafoem01
+346,1973-74,Ernie DiGregorio,BUF,ROY,,digreer01
+347,1972-73,Fatty Taylor,,All-Defensive,,taylofa01
+348,1973-74,Gail Goodrich,,All-NBA,,goodrga01
+349,1993-94,Gary Payton,,All-Defensive,,paytoga01
+350,1994-95,Gary Payton,,All-Defensive,,paytoga01
+351,1995-96,Gary Payton,,All-Defensive,,paytoga01
+352,1995-96,Gary Payton,SEA,DPOY,,paytoga01
+353,1996-97,Gary Payton,,All-Defensive,,paytoga01
+354,1997-98,Gary Payton,,All-Defensive,,paytoga01
+355,1997-98,Gary Payton,,All-NBA,,paytoga01
+356,1998-99,Gary Payton,,All-Defensive,,paytoga01
+357,1999-00,Gary Payton,,All-Defensive,,paytoga01
+358,1999-00,Gary Payton,,All-NBA,,paytoga01
+359,2000-01,Gary Payton,,All-Defensive,,paytoga01
+360,2001-02,Gary Payton,,All-Defensive,,paytoga01
+361,1959-60,Gene Shue,,All-NBA,,shuege01
+362,1977-78,George Gervin,,All-NBA,,gervige01
+363,1978-79,George Gervin,,All-NBA,,gervige01
+364,1979-80,George Gervin,,All-NBA,,gervige01
+365,1980-81,George Gervin,,All-NBA,,gervige01
+366,1981-82,George Gervin,,All-NBA,,gervige01
+367,1973-74,George McGinnis,,All-NBA,,mcginge01
+368,1974-75,George McGinnis,,All-NBA,,mcginge01
+369,1975-76,George McGinnis,,All-NBA,,mcginge01
+370,1951-52,George Mikan,,All-NBA,,mikange01
+371,1952-53,George Mikan,,All-NBA,,mikange01
+372,1953-54,George Mikan,,All-NBA,,mikange01
+373,1957-58,George Yardley,,All-NBA,,yardlge01
+374,2009-10,Gerald Wallace,,All-Defensive,,wallage01
+375,2018-19,Giannis Antetokounmpo,,All-NBA,,antetgi01
+376,2018-19,Giannis Antetokounmpo,MIL,MVP,,antetgi01
+377,2019-20,Giannis Antetokounmpo,,All-NBA,,antetgi01
+378,2019-20,Giannis Antetokounmpo,MIL,DPOY,,antetgi01
+379,2019-20,Giannis Antetokounmpo,MIL,MVP,,antetgi01
+380,2020-21,Giannis Antetokounmpo,,All-NBA,,antetgi01
+381,2020-21,Giannis Antetokounmpo,MIL,FMVP,,antetgi01
+382,2021-22,Giannis Antetokounmpo,,All-NBA,,antetgi01
+383,2022-23,Giannis Antetokounmpo,,All-NBA,,antetgi01
+384,2023-24,Giannis Antetokounmpo,,All-NBA,,antetgi01
+385,1996-97,Grant Hill,,All-NBA,,hillgr01
+386,1969-70,Gus Johnson,,All-Defensive,,johnsgu01
+387,1970-71,Gus Johnson,,All-Defensive,,johnsgu01
+388,1981-82,Gus Williams,,All-NBA,,willigu01
+389,1986-87,Hakeem Olajuwon,,All-Defensive,,olajuha01
+390,1986-87,Hakeem Olajuwon,,All-NBA,,olajuha01
+391,1987-88,Hakeem Olajuwon,,All-Defensive,,olajuha01
+392,1987-88,Hakeem Olajuwon,,All-NBA,,olajuha01
+393,1988-89,Hakeem Olajuwon,,All-NBA,,olajuha01
+394,1989-90,Hakeem Olajuwon,,All-Defensive,,olajuha01
+395,1992-93,Hakeem Olajuwon,,All-Defensive,,olajuha01
+396,1992-93,Hakeem Olajuwon,,All-NBA,,olajuha01
+397,1992-93,Hakeem Olajuwon,HOU,DPOY,,olajuha01
+398,1993-94,Hakeem Olajuwon,,All-Defensive,,olajuha01
+399,1993-94,Hakeem Olajuwon,,All-NBA,,olajuha01
+400,1993-94,Hakeem Olajuwon,HOU,DPOY,,olajuha01
+401,1993-94,Hakeem Olajuwon,HOU,FMVP,,olajuha01
+402,1993-94,Hakeem Olajuwon,HOU,MVP,,olajuha01
+403,1994-95,Hakeem Olajuwon,HOU,FMVP,,olajuha01
+404,1996-97,Hakeem Olajuwon,,All-NBA,,olajuha01
+405,1953-54,Harry Gallatin,,All-NBA,,gallaha01
+406,1983-84,Isiah Thomas,,All-NBA,,thomais01
+407,1984-85,Isiah Thomas,,All-NBA,,thomais01
+408,1985-86,Isiah Thomas,,All-NBA,,thomais01
+409,1989-90,Isiah Thomas,DET,FMVP,,thomais01
+410,2019-20,Ja Morant,MEM,ROY,,moranja01
+411,1974-75,Jamaal Wilkes,GSW,ROY,,wilkeja01
+412,2013-14,James Harden,,All-NBA,,hardeja01
+413,2014-15,James Harden,,All-NBA,,hardeja01
+414,2016-17,James Harden,,All-NBA,,hardeja01
+415,2017-18,James Harden,,All-NBA,,hardeja01
+416,2017-18,James Harden,HOU,MVP,,hardeja01
+417,2018-19,James Harden,,All-NBA,,hardeja01
+418,2019-20,James Harden,,All-NBA,,hardeja01
+419,1975-76,James Silas,,All-NBA,,silasja01
+420,1987-88,James Worthy,LAL,FMVP,,worthja01
+421,2022-23,Jaren Jackson Jr.,MEM,DPOY,,jacksja02
+422,1998-99,Jason Kidd,,All-Defensive,,kiddja01
+423,1998-99,Jason Kidd,,All-NBA,,kiddja01
+424,1999-00,Jason Kidd,,All-NBA,,kiddja01
+425,2000-01,Jason Kidd,,All-Defensive,,kiddja01
+426,2000-01,Jason Kidd,,All-NBA,,kiddja01
+427,2001-02,Jason Kidd,,All-Defensive,,kiddja01
+428,2001-02,Jason Kidd,,All-NBA,,kiddja01
+429,2003-04,Jason Kidd,,All-NBA,,kiddja01
+430,2023-24,Jaylen Brown,BOS,FMVP,,brownja02
+431,2021-22,Jayson Tatum,,All-NBA,,tatumja01
+432,2022-23,Jayson Tatum,,All-NBA,,tatumja01
+433,2023-24,Jayson Tatum,,All-NBA,,tatumja01
+434,1963-64,Jerry Lucas,CIN,ROY,,lucasje01
+435,1964-65,Jerry Lucas,,All-NBA,,lucasje01
+436,1965-66,Jerry Lucas,,All-NBA,,lucasje01
+437,1967-68,Jerry Lucas,,All-NBA,,lucasje01
+438,1968-69,Jerry Sloan,,All-Defensive,,sloanje01
+439,1974-75,Jerry Sloan,,All-Defensive,,sloanje01
+440,1961-62,Jerry West,,All-NBA,,westje01
+441,1962-63,Jerry West,,All-NBA,,westje01
+442,1963-64,Jerry West,,All-NBA,,westje01
+443,1964-65,Jerry West,,All-NBA,,westje01
+444,1965-66,Jerry West,,All-NBA,,westje01
+445,1966-67,Jerry West,,All-NBA,,westje01
+446,1968-69,Jerry West,LAL,FMVP,,westje01
+447,1969-70,Jerry West,,All-Defensive,,westje01
+448,1969-70,Jerry West,,All-NBA,,westje01
+449,1970-71,Jerry West,,All-Defensive,,westje01
+450,1970-71,Jerry West,,All-NBA,,westje01
+451,1971-72,Jerry West,,All-NBA,,westje01
+452,1972-73,Jerry West,,All-Defensive,,westje01
+453,1972-73,Jerry West,,All-NBA,,westje01
+454,1968-69,Jimmy Jones,,All-NBA,,jonesji01
+455,1972-73,Jimmy Jones,,All-NBA,,jonesji01
+456,1973-74,Jimmy Jones,,All-NBA,,jonesji01
+457,1975-76,Jo Jo White,BOS,FMVP,,whitejo01
+458,2013-14,Joakim Noah,,All-NBA,,noahjo01
+459,2013-14,Joakim Noah,CHI,DPOY,,noahjo01
+460,1972-73,Joe Caldwell,All-Defensive,,,caldwjo01
+461,1971-72,Wilt Chamberlain,,All-Defensive,,chambwi01
+462,1971-72,Dave DeBusschere,,All-Defensive,,debusda01
+463,1971-72,John Havlicek,,All-Defensive,,havlijo01
+464,1971-72,Jerry West,,All-Defensive,,westje01
+465,1971-72,Walt Frazier,All-Defensive,,,fraziwa01
+466,1988-89,Joe Dumars,,All-Defensive,,dumarjo01
+467,1988-89,Joe Dumars,DET,FMVP,,dumarjo01
+468,1989-90,Joe Dumars,,All-Defensive,,dumarjo01
+469,1991-92,Joe Dumars,,All-Defensive,,dumarjo01
+470,1992-93,Joe Dumars,,All-Defensive,,dumarjo01
+471,2022-23,Joel Embiid,,All-NBA,,embiijo01
+472,2022-23,Joel Embiid,PHI,MVP,,embiijo01
+473,1970-71,John Havlicek,,All-NBA,,havlijo01
+474,1971-72,John Havlicek,,All-NBA,,havlijo01
+475,1972-73,John Havlicek,,All-Defensive,,havlijo01
+476,1972-73,John Havlicek,,All-NBA,,havlijo01
+477,1973-74,John Havlicek,,All-Defensive,,havlijo01
+478,1973-74,John Havlicek,,All-NBA,,havlijo01
+479,1973-74,John Havlicek,BOS,FMVP,,havlijo01
+480,1974-75,John Havlicek,,All-Defensive,,havlijo01
+481,1975-76,John Havlicek,,All-Defensive,,havlijo01
+482,1993-94,John Stockton,,All-NBA,,stockjo01
+483,1994-95,John Stockton,,All-NBA,,stockjo01
+484,1972-73,Julius Erving,,All-NBA,,ervinju01
+485,1973-74,Julius Erving,,All-NBA,,ervinju01
+486,1974-75,Julius Erving,,All-NBA,,ervinju01
+487,1975-76,Julius Erving,,All-Defensive,,ervinju01
+488,1975-76,Julius Erving,,All-NBA,,ervinju01
+489,1977-78,Julius Erving,,All-NBA,,ervinju01
+490,1979-80,Julius Erving,,All-NBA,,ervinju01
+491,1980-81,Julius Erving,,All-NBA,,ervinju01
+492,1980-81,Julius Erving,PHI,MVP,,ervinju01
+493,1981-82,Julius Erving,,All-NBA,,ervinju01
+494,1982-83,Julius Erving,,All-NBA,,ervinju01
+495,1969-70,Kareem Abdul-Jabbar,MIL,ROY,,abdulka01
+496,1970-71,Kareem Abdul-Jabbar,,All-NBA,,abdulka01
+497,1970-71,Kareem Abdul-Jabbar,MIL,FMVP,,abdulka01
+498,1970-71,Kareem Abdul-Jabbar,MIL,MVP,,abdulka01
+499,1971-72,Kareem Abdul-Jabbar,,All-NBA,,abdulka01
+500,1971-72,Kareem Abdul-Jabbar,MIL,MVP,,abdulka01
+501,1972-73,Kareem Abdul-Jabbar,,All-NBA,,abdulka01
+502,1973-74,Kareem Abdul-Jabbar,,All-Defensive,,abdulka01
+503,1973-74,Kareem Abdul-Jabbar,,All-NBA,,abdulka01
+504,1973-74,Kareem Abdul-Jabbar,MIL,MVP,,abdulka01
+505,1974-75,Kareem Abdul-Jabbar,,All-Defensive,,abdulka01
+506,1975-76,Kareem Abdul-Jabbar,,All-NBA,,abdulka01
+507,1975-76,Kareem Abdul-Jabbar,LAL,MVP,,abdulka01
+508,1976-77,Kareem Abdul-Jabbar,,All-NBA,,abdulka01
+509,1976-77,Kareem Abdul-Jabbar,LAL,MVP,,abdulka01
+510,1978-79,Kareem Abdul-Jabbar,,All-Defensive,,abdulka01
+511,1979-80,Kareem Abdul-Jabbar,,All-NBA,,abdulka01
+512,1979-80,Kareem Abdul-Jabbar,LAL,MVP,,abdulka01
+513,1980-81,Kareem Abdul-Jabbar,,All-NBA,,abdulka01
+514,1983-84,Kareem Abdul-Jabbar,,All-NBA,,abdulka01
+515,1984-85,Kareem Abdul-Jabbar,LAL,FMVP,,abdulka01
+516,1985-86,Kareem Abdul-Jabbar,,All-NBA,,abdulka01
+517,1988-89,Karl Malone,,All-NBA,,malonka01
+518,1989-90,Karl Malone,,All-NBA,,malonka01
+519,1990-91,Karl Malone,,All-NBA,,malonka01
+520,1991-92,Karl Malone,,All-NBA,,malonka01
+521,1992-93,Karl Malone,,All-NBA,,malonka01
+522,1993-94,Karl Malone,,All-NBA,,malonka01
+523,1994-95,Karl Malone,,All-NBA,,malonka01
+524,1995-96,Karl Malone,,All-NBA,,malonka01
+525,1996-97,Karl Malone,,All-Defensive,,malonka01
+526,1996-97,Karl Malone,,All-NBA,,malonka01
+527,1996-97,Karl Malone,UTA,MVP,,malonka01
+528,1997-98,Karl Malone,,All-Defensive,,malonka01
+529,1997-98,Karl Malone,,All-NBA,,malonka01
+530,1998-99,Karl Malone,,All-Defensive,,malonka01
+531,1998-99,Karl Malone,,All-NBA,,malonka01
+532,1998-99,Karl Malone,UTA,MVP,,malonka01
+533,2015-16,Karl-Anthony Towns,MIN,ROY,,townska01
+534,2013-14,Kawhi Leonard,SAS,FMVP,,leonaka01
+535,2014-15,Kawhi Leonard,SAS,DPOY,,leonaka01
+536,2015-16,Kawhi Leonard,,All-NBA,,leonaka01
+537,2015-16,Kawhi Leonard,SAS,DPOY,,leonaka01
+538,2016-17,Kawhi Leonard,,All-NBA,,leonaka01
+539,2018-19,Kawhi Leonard,TOR,FMVP,,leonaka01
+540,2020-21,Kawhi Leonard,,All-NBA,,leonaka01
+541,2007-08,Kevin Durant,SEA,ROY,,duranke01
+542,2009-10,Kevin Durant,,All-NBA,,duranke01
+543,2010-11,Kevin Durant,,All-NBA,,duranke01
+544,2011-12,Kevin Durant,,All-NBA,,duranke01
+545,2012-13,Kevin Durant,,All-NBA,,duranke01
+546,2013-14,Kevin Durant,,All-NBA,,duranke01
+547,2013-14,Kevin Durant,OKC,MVP,,duranke01
+548,2016-17,Kevin Durant,GSW,FMVP,,duranke01
+549,2017-18,Kevin Durant,,All-NBA,,duranke01
+550,2017-18,Kevin Durant,GSW,FMVP,,duranke01
+551,1999-00,Kevin Garnett,,All-Defensive,,garneke01
+552,1999-00,Kevin Garnett,,All-NBA,,garneke01
+553,2000-01,Kevin Garnett,,All-Defensive,,garneke01
+554,2001-02,Kevin Garnett,,All-Defensive,,garneke01
+555,2002-03,Kevin Garnett,,All-Defensive,,garneke01
+556,2002-03,Kevin Garnett,,All-NBA,,garneke01
+557,2003-04,Kevin Garnett,,All-Defensive,,garneke01
+558,2003-04,Kevin Garnett,,All-NBA,,garneke01
+559,2003-04,Kevin Garnett,MIN,MVP,,garneke01
+560,2004-05,Kevin Garnett,,All-Defensive,,garneke01
+561,2007-08,Kevin Garnett,,All-Defensive,,garneke01
+562,2007-08,Kevin Garnett,,All-NBA,,garneke01
+563,2007-08,Kevin Garnett,BOS,DPOY,,garneke01
+564,2008-09,Kevin Garnett,,All-Defensive,,garneke01
+565,2010-11,Kevin Garnett,,All-Defensive,,garneke01
+566,1985-86,Kevin McHale,,All-Defensive,,mchalke01
+567,1986-87,Kevin McHale,,All-Defensive,,mchalke01
+568,1986-87,Kevin McHale,,All-NBA,,mchalke01
+569,1987-88,Kevin McHale,,All-Defensive,,mchalke01
+570,1999-00,Kobe Bryant,,All-Defensive,,bryanko01
+571,2001-02,Kobe Bryant,,All-NBA,,bryanko01
+572,2002-03,Kobe Bryant,,All-Defensive,,bryanko01
+573,2002-03,Kobe Bryant,,All-NBA,,bryanko01
+574,2003-04,Kobe Bryant,,All-Defensive,,bryanko01
+575,2003-04,Kobe Bryant,,All-NBA,,bryanko01
+576,2005-06,Kobe Bryant,,All-Defensive,,bryanko01
+577,2005-06,Kobe Bryant,,All-NBA,,bryanko01
+578,2006-07,Kobe Bryant,,All-Defensive,,bryanko01
+579,2006-07,Kobe Bryant,,All-NBA,,bryanko01
+580,2007-08,Kobe Bryant,,All-Defensive,,bryanko01
+581,2007-08,Kobe Bryant,,All-NBA,,bryanko01
+582,2007-08,Kobe Bryant,LAL,MVP,,bryanko01
+583,2008-09,Kobe Bryant,,All-Defensive,,bryanko01
+584,2008-09,Kobe Bryant,,All-NBA,,bryanko01
+585,2008-09,Kobe Bryant,LAL,FMVP,,bryanko01
+586,2009-10,Kobe Bryant,,All-Defensive,,bryanko01
+587,2009-10,Kobe Bryant,,All-NBA,,bryanko01
+588,2009-10,Kobe Bryant,LAL,FMVP,,bryanko01
+589,2010-11,Kobe Bryant,,All-Defensive,,bryanko01
+590,2010-11,Kobe Bryant,,All-NBA,,bryanko01
+591,2011-12,Kobe Bryant,,All-NBA,,bryanko01
+592,2012-13,Kobe Bryant,,All-NBA,,bryanko01
+593,2011-12,Kyrie Irving,CLE,ROY,,irvinky01
+594,2020-21,LaMelo Ball,CHO,ROY,,ballla01
+595,1979-80,Larry Bird,,All-NBA,,birdla01
+596,1979-80,Larry Bird,BOS,ROY,,birdla01
+597,1980-81,Larry Bird,,All-NBA,,birdla01
+598,1981-82,Larry Bird,,All-NBA,,birdla01
+599,1982-83,Larry Bird,,All-NBA,,birdla01
+600,1983-84,Larry Bird,,All-NBA,,birdla01
+601,1983-84,Larry Bird,BOS,FMVP,,birdla01
+602,1983-84,Larry Bird,BOS,MVP,,birdla01
+603,1984-85,Larry Bird,,All-NBA,,birdla01
+604,1984-85,Larry Bird,BOS,MVP,,birdla01
+605,1985-86,Larry Bird,,All-NBA,,birdla01
+606,1985-86,Larry Bird,BOS,FMVP,,birdla01
+607,1985-86,Larry Bird,BOS,MVP,,birdla01
+608,1986-87,Larry Bird,,All-NBA,,birdla01
+609,1987-88,Larry Bird,,All-NBA,,birdla01
+610,1954-55,Larry Foust,,All-NBA,,foustla01
+611,2004-05,Larry Hughes,,All-Defensive,,hughela01
+612,1991-92,Larry Johnson,CHH,ROY,,johnsla01
+613,1991-92,Larry Johnson,CHH,ROY,,johnsla02
+614,1967-68,Larry Jones,,All-NBA,,jonesla01
+615,1968-69,Larry Jones,,All-NBA,,jonesla01
+616,1969-70,Larry Jones,,All-NBA,,jonesla01
+617,1988-89,Larry Nance,,All-Defensive,,nancela01
+618,1993-94,Latrell Sprewell,,All-NBA,,sprewla01
+619,2003-04,LeBron James,CLE,ROY,,jamesle01
+620,2005-06,LeBron James,,All-NBA,,jamesle01
+621,2007-08,LeBron James,,All-NBA,,jamesle01
+622,2008-09,LeBron James,,All-Defensive,,jamesle01
+623,2008-09,LeBron James,,All-NBA,,jamesle01
+624,2008-09,LeBron James,CLE,MVP,,jamesle01
+625,2009-10,LeBron James,,All-Defensive,,jamesle01
+626,2009-10,LeBron James,,All-NBA,,jamesle01
+627,2009-10,LeBron James,CLE,MVP,,jamesle01
+628,2010-11,LeBron James,,All-Defensive,,jamesle01
+629,2010-11,LeBron James,,All-NBA,,jamesle01
+630,2011-12,LeBron James,,All-Defensive,,jamesle01
+631,2011-12,LeBron James,,All-NBA,,jamesle01
+632,2011-12,LeBron James,MIA,FMVP,,jamesle01
+633,2011-12,LeBron James,MIA,MVP,,jamesle01
+634,2012-13,LeBron James,,All-NBA,,jamesle01
+635,2012-13,LeBron James,MIA,FMVP,,jamesle01
+636,2012-13,LeBron James,MIA,MVP,,jamesle01
+637,2013-14,LeBron James,,All-NBA,,jamesle01
+638,2014-15,LeBron James,,All-NBA,,jamesle01
+639,2015-16,LeBron James,,All-NBA,,jamesle01
+640,2015-16,LeBron James,CLE,FMVP,,jamesle01
+641,2016-17,LeBron James,,All-NBA,,jamesle01
+642,2017-18,LeBron James,,All-NBA,,jamesle01
+643,2019-20,LeBron James,,All-NBA,,jamesle01
+644,2019-20,LeBron James,LAL,FMVP,,jamesle01
+645,1977-78,Lionel Hollins,,All-Defensive,,hollili01
+646,2018-19,Luka Dončić,DAL,ROY,,doncilu01
+647,2019-20,Luka Dončić,,All-NBA,,doncilu01
+648,2020-21,Luka Dončić,,All-NBA,,doncilu01
+649,2021-22,Luka Dončić,,All-NBA,,doncilu01
+650,2022-23,Luka Dončić,,All-NBA,,doncilu01
+651,2023-24,Luka Dončić,,All-NBA,,doncilu01
+652,1970-71,Mack Calvin,,All-NBA,,calvima01
+653,1973-74,Mack Calvin,,All-NBA,,calvima01
+654,1974-75,Mack Calvin,,All-NBA,,calvima01
+655,1979-80,Magic Johnson,LAL,FMVP,,johnsma02
+656,1981-82,Magic Johnson,LAL,FMVP,,johnsma02
+657,1982-83,Magic Johnson,,All-NBA,,johnsma02
+658,1983-84,Magic Johnson,,All-NBA,,johnsma02
+659,1984-85,Magic Johnson,,All-NBA,,johnsma02
+660,1985-86,Magic Johnson,,All-NBA,,johnsma02
+661,1986-87,Magic Johnson,,All-NBA,,johnsma02
+662,1986-87,Magic Johnson,LAL,FMVP,,johnsma02
+663,1986-87,Magic Johnson,LAL,MVP,,johnsma02
+664,1987-88,Magic Johnson,,All-NBA,,johnsma02
+665,1988-89,Magic Johnson,,All-NBA,,johnsma02
+666,1988-89,Magic Johnson,LAL,MVP,,johnsma02
+667,1989-90,Magic Johnson,,All-NBA,,johnsma02
+668,1989-90,Magic Johnson,LAL,MVP,,johnsma02
+669,1990-91,Magic Johnson,,All-NBA,,johnsma02
+670,2016-17,Malcolm Brogdon,MIL,ROY,,brogdma01
+671,2012-13,Marc Gasol,MEM,DPOY,,gasolma01
+672,2014-15,Marc Gasol,,All-NBA,,gasolma01
+673,2006-07,Marcus Camby,,All-Defensive,,cambyma01
+674,2006-07,Marcus Camby,DEN,DPOY,,cambyma01
+675,2007-08,Marcus Camby,,All-Defensive,,cambyma01
+676,2021-22,Marcus Smart,BOS,DPOY,,smartma01
+677,1984-85,Mark Eaton,,All-Defensive,,eatonma01
+678,1984-85,Mark Eaton,UTA,DPOY,,eatonma01
+679,1985-86,Mark Eaton,,All-Defensive,,eatonma01
+680,1988-89,Mark Eaton,,All-Defensive,,eatonma01
+681,1988-89,Mark Eaton,UTA,DPOY,,eatonma01
+682,1987-88,Mark Jackson,NYK,ROY,,jacksma01
+683,1992-93,Mark Price,,All-NBA,,pricema01
+684,1978-79,Marques Johnson,,All-NBA,,johnsma01
+685,1983-84,Maurice Cheeks,,All-Defensive,,cheekma01
+686,1984-85,Maurice Cheeks,,All-Defensive,,cheekma01
+687,1985-86,Maurice Cheeks,,All-Defensive,,cheekma01
+688,1982-83,Maurice Cheeks,,All-Defensive,,cheekma01
+689,1981-82,Michael Cooper,,All-Defensive,,coopemi01
+690,1981-82,Dennis Johnson,,All-Defensive,,johnsde01
+691,1981-82,Bobby Jones,,All-Defensive,,jonesbo01
+692,1981-82,Bobby Jones,,All-Defensive,,jonesbo02
+693,1981-82,Caldwell Jones,,All-Defensive,,jonesca01
+694,1981-82,Dan Roundfield,,All-Defensive,,roundda01
+695,1980-81,Kareem Abdul-Jabbar,,All-Defensive,,abdulka01
+696,1980-81,Dennis Johnson,,All-Defensive,,johnsde01
+697,1980-81,Bobby Jones,,All-Defensive,,jonesbo01
+698,1980-81,Bobby Jones,,All-Defensive,,jonesbo02
+699,1980-81,Caldwell Jones,,All-Defensive,,jonesca01
+700,1980-81,Michael Ray Richardson,,All-Defensive,,richami01
+701,1979-80,Kareem Abdul-Jabbar,,All-Defensive,,abdulka01
+702,1979-80,Dennis Johnson,,All-Defensive,,johnsde01
+703,1979-80,Bobby Jones,,All-Defensive,,jonesbo01
+704,1979-80,Bobby Jones,,All-Defensive,,jonesbo02
+705,1979-80,Dan Roundfield,,All-Defensive,,roundda01
+706,1979-80,Don Buse,,All-Defensive,,busedo01
+707,1977-78,Maurice Lucas,,All-Defensive,,lucasma01
+708,1955-56,Maurice Stokes,ROC,ROY,,stokema01
+709,1967-68,Mel Daniels,,All-NBA,,danieme01
+710,1968-69,Mel Daniels,,All-NBA,,danieme01
+711,1969-70,Mel Daniels,,All-NBA,,danieme01
+712,1970-71,Mel Daniels,,All-NBA,,danieme01
+713,2003-04,Metta World Peace,,All-Defensive,,artesro01
+714,2003-04,Metta World Peace,IND,DPOY,,artesro01
+715,2005-06,Metta World Peace,,All-Defensive,,artesro01
+716,2013-14,Michael Carter-Williams,PHI,ROY,,cartemi01
+717,1983-84,Michael Cooper,,All-Defensive,,coopemi01
+718,1984-85,Michael Cooper,,All-Defensive,,coopemi01
+719,1986-87,Michael Cooper,,All-Defensive,,coopemi01
+720,1986-87,Michael Cooper,LAL,DPOY,,coopemi01
+721,1987-88,Michael Cooper,,All-Defensive,,coopemi01
+722,1984-85,Michael Jordan,CHI,ROY,,jordami01
+723,1986-87,Michael Jordan,,All-NBA,,jordami01
+724,1987-88,Michael Jordan,,All-Defensive,,jordami01
+725,1987-88,Michael Jordan,,All-NBA,,jordami01
+726,1987-88,Michael Jordan,CHI,DPOY,,jordami01
+727,1987-88,Michael Jordan,CHI,MVP,,jordami01
+728,1988-89,Michael Jordan,,All-Defensive,,jordami01
+729,1988-89,Michael Jordan,,All-NBA,,jordami01
+730,1989-90,Michael Jordan,,All-Defensive,,jordami01
+731,1989-90,Michael Jordan,,All-NBA,,jordami01
+732,1990-91,Michael Jordan,,All-Defensive,,jordami01
+733,1990-91,Michael Jordan,,All-NBA,,jordami01
+734,1990-91,Michael Jordan,CHI,FMVP,,jordami01
+735,1990-91,Michael Jordan,CHI,MVP,,jordami01
+736,1991-92,Michael Jordan,,All-Defensive,,jordami01
+737,1991-92,Michael Jordan,,All-NBA,,jordami01
+738,1991-92,Michael Jordan,CHI,FMVP,,jordami01
+739,1991-92,Michael Jordan,CHI,MVP,,jordami01
+740,1992-93,Michael Jordan,,All-Defensive,,jordami01
+741,1992-93,Michael Jordan,,All-NBA,,jordami01
+742,1992-93,Michael Jordan,CHI,FMVP,,jordami01
+743,1995-96,Michael Jordan,,All-Defensive,,jordami01
+744,1995-96,Michael Jordan,,All-NBA,,jordami01
+745,1995-96,Michael Jordan,CHI,FMVP,,jordami01
+746,1995-96,Michael Jordan,CHI,MVP,,jordami01
+747,1996-97,Michael Jordan,,All-Defensive,,jordami01
+748,1996-97,Michael Jordan,,All-NBA,,jordami01
+749,1996-97,Michael Jordan,CHI,FMVP,,jordami01
+750,1997-98,Michael Jordan,,All-Defensive,,jordami01
+751,1997-98,Michael Jordan,,All-NBA,,jordami01
+752,1997-98,Michael Jordan,CHI,FMVP,,jordami01
+753,1997-98,Michael Jordan,CHI,MVP,,jordami01
+754,1972-73,Mike Gale,,All-Defensive,,galemi01
+755,2000-01,Mike Miller,ORL,ROY,,millemi01
+756,1988-89,Mitch Richmond,GSW,ROY,,richmmi01
+757,1952-53,Monk Meineke,FTW,ROY,,meinemo01
+758,1993-94,Mookie Blaylock,,All-Defensive,,blaylmo01
+759,1994-95,Mookie Blaylock,,All-Defensive,,blaylmo01
+760,1978-79,Moses Malone,,All-NBA,,malonmo01
+761,1978-79,Moses Malone,HOU,MVP,,malonmo01
+762,1981-82,Moses Malone,,All-NBA,,malonmo01
+763,1981-82,Moses Malone,HOU,MVP,,malonmo01
+764,1982-83,Moses Malone,,All-Defensive,,malonmo01
+765,1982-83,Moses Malone,,All-NBA,,malonmo01
+766,1982-83,Moses Malone,PHI,FMVP,,malonmo01
+767,1982-83,Moses Malone,PHI,MVP,,malonmo01
+768,1984-85,Moses Malone,,All-NBA,,malonmo01
+769,1968-69,Nate Thurmond,,All-Defensive,,thurmna01
+770,1970-71,Nate Thurmond,,All-Defensive,,thurmna01
+771,1952-53,Neil Johnston,,All-NBA,,johnsne01
+772,1953-54,Neil Johnston,,All-NBA,,johnsne01
+773,1954-55,Neil Johnston,,All-NBA,,johnsne01
+774,1955-56,Neil Johnston,,All-NBA,,johnsne01
+775,2018-19,Nikola Jokić,,All-NBA,,jokicni01
+776,2020-21,Nikola Jokić,,All-NBA,,jokicni01
+777,2020-21,Nikola Jokić,DEN,MVP,,jokicni01
+778,2021-22,Nikola Jokić,,All-NBA,,jokicni01
+779,2021-22,Nikola Jokić,DEN,MVP,,jokicni01
+780,2022-23,Nikola Jokić,DEN,FMVP,,jokicni01
+781,2023-24,Nikola Jokić,,All-NBA,,jokicni01
+782,2023-24,Nikola Jokić,DEN,MVP,,jokicni01
+783,1973-74,Norm Van Lier,,All-Defensive,,vanlino01
+784,1975-76,Norm Van Lier,,All-Defensive,,vanlino01
+785,1976-77,Norm Van Lier,,All-Defensive,,vanlino01
+786,1960-61,Oscar Robertson,,All-NBA,,roberos01
+787,1960-61,Oscar Robertson,CIN,ROY,,roberos01
+788,1961-62,Oscar Robertson,,All-NBA,,roberos01
+789,1962-63,Oscar Robertson,,All-NBA,,roberos01
+790,1963-64,Oscar Robertson,,All-NBA,,roberos01
+791,1963-64,Oscar Robertson,CIN,MVP,,roberos01
+792,1964-65,Oscar Robertson,,All-NBA,,roberos01
+793,1965-66,Oscar Robertson,,All-NBA,,roberos01
+794,1966-67,Oscar Robertson,,All-NBA,,roberos01
+795,1967-68,Oscar Robertson,,All-NBA,,roberos01
+796,1968-69,Oscar Robertson,,All-NBA,,roberos01
+797,2022-23,Paolo Banchero,ORL,ROY,,banchpa01
+798,1985-86,Patrick Ewing,NYK,ROY,,ewingpa01
+799,1985-86,Patrick Ewing,NYK,ROY,,ewingpa02
+800,1989-90,Patrick Ewing,,All-NBA,,ewingpa01
+801,1989-90,Patrick Ewing,,All-NBA,,ewingpa02
+802,2001-02,Pau Gasol,MEM,ROY,,gasolpa01
+803,1951-52,Paul Arizin,,All-NBA,,arizipa01
+804,1955-56,Paul Arizin,,All-NBA,,arizipa01
+805,1956-57,Paul Arizin,,All-NBA,,arizipa01
+806,2018-19,Paul George,,All-NBA,,georgpa01
+807,2007-08,Paul Pierce,BOS,FMVP,,piercpa01
+808,1984-85,Paul Pressey,,All-Defensive,,presspa01
+809,1985-86,Paul Pressey,,All-Defensive,,presspa01
+810,1974-75,Paul Silas,,All-Defensive,,silaspa01
+811,1975-76,Paul Silas,,All-Defensive,,silaspa01
+812,1976-77,Paul Westphal,,All-NBA,,westppa01
+813,1978-79,Paul Westphal,,All-NBA,,westppa01
+814,1979-80,Paul Westphal,,All-NBA,,westppa01
+815,1975-76,Pete Maravich,,All-NBA,,maravpe01
+816,1976-77,Pete Maravich,,All-NBA,,maravpe01
+817,1978-79,Phil Ford,KCK,ROY,,fordph01
+818,2006-07,Raja Bell,,All-Defensive,,bellra01
+819,2009-10,Rajon Rondo,,All-Defensive,,rondora01
+820,2010-11,Rajon Rondo,,All-Defensive,,rondora01
+821,1983-84,Ralph Sampson,HOU,ROY,,sampsra01
+822,1975-76,Ralph Simpson,,All-NBA,,simpsra01
+823,1953-54,Ray Felix,BLB,ROY,,felixra01
+824,1965-66,Rick Barry,,All-NBA,,barryri01
+825,1965-66,Rick Barry,SFW,ROY,,barryri01
+826,1966-67,Rick Barry,,All-NBA,,barryri01
+827,1968-69,Rick Barry,,All-NBA,,barryri01
+828,1969-70,Rick Barry,,All-NBA,,barryri01
+829,1970-71,Rick Barry,,All-NBA,,barryri01
+830,1971-72,Rick Barry,,All-NBA,,barryri01
+831,1973-74,Rick Barry,,All-NBA,,barryri01
+832,1974-75,Rick Barry,,All-NBA,,barryri01
+833,1974-75,Rick Barry,GSW,FMVP,,barryri01
+834,1975-76,Rick Barry,,All-NBA,,barryri01
+835,1987-88,Rodney McCray,,All-Defensive,,mccraro01
+836,1970-71,Roger Brown,,All-NBA,,brownro01
+837,1970-71,Roger Brown,,All-NBA,,brownro02
+838,1974-75,Ron Boone,,All-NBA,,boonero01
+839,2017-18,Rudy Gobert,UTA,DPOY,,goberru01
+840,2018-19,Rudy Gobert,UTA,DPOY,,goberru01
+841,2020-21,Rudy Gobert,UTA,DPOY,,goberru01
+842,2023-24,Rudy Gobert,MIN,DPOY,,goberru01
+843,2015-16,Russell Westbrook,,All-NBA,,westbru01
+844,2016-17,Russell Westbrook,,All-NBA,,westbru01
+845,2016-17,Russell Westbrook,OKC,MVP,,westbru01
+846,2021-22,Scottie Barnes,TOR,ROY,,barnesc01
+847,1991-92,Scottie Pippen,,All-Defensive,,pippesc01
+848,1992-93,Scottie Pippen,,All-Defensive,,pippesc01
+849,1993-94,Scottie Pippen,,All-Defensive,,pippesc01
+850,1993-94,Scottie Pippen,,All-NBA,,pippesc01
+851,1994-95,Scottie Pippen,,All-Defensive,,pippesc01
+852,1994-95,Scottie Pippen,,All-NBA,,pippesc01
+853,1995-96,Scottie Pippen,,All-Defensive,,pippesc01
+854,1995-96,Scottie Pippen,,All-NBA,,pippesc01
+855,1996-97,Scottie Pippen,,All-Defensive,,pippesc01
+856,1997-98,Scottie Pippen,,All-Defensive,,pippesc01
+857,2011-12,Serge Ibaka,,All-Defensive,,ibakase01
+858,2022-23,Shai Gilgeous-Alexander,,All-NBA,,gilgesh01
+859,2023-24,Shai Gilgeous-Alexander,,All-NBA,,gilgesh01
+860,1992-93,Shaquille O'Neal,ORL,ROY,,onealsh01
+861,1997-98,Shaquille O'Neal,,All-NBA,,onealsh01
+862,1999-00,Shaquille O'Neal,,All-NBA,,onealsh01
+863,1999-00,Shaquille O'Neal,LAL,FMVP,,onealsh01
+864,1999-00,Shaquille O'Neal,LAL,MVP,,onealsh01
+865,2000-01,Shaquille O'Neal,,All-NBA,,onealsh01
+866,2000-01,Shaquille O'Neal,LAL,FMVP,,onealsh01
+867,2001-02,Shaquille O'Neal,,All-NBA,,onealsh01
+868,2001-02,Shaquille O'Neal,LAL,FMVP,,onealsh01
+869,2002-03,Shaquille O'Neal,,All-NBA,,onealsh01
+870,2003-04,Shaquille O'Neal,,All-NBA,,onealsh01
+871,2004-05,Shaquille O'Neal,,All-NBA,,onealsh01
+872,2005-06,Shaquille O'Neal,,All-NBA,,onealsh01
+873,1982-83,Sidney Moncrief,,All-Defensive,,moncrsi01
+874,1982-83,Sidney Moncrief,,All-NBA,,moncrsi01
+875,1982-83,Sidney Moncrief,MIL,DPOY,,moncrsi01
+876,1983-84,Sidney Moncrief,,All-Defensive,,moncrsi01
+877,1983-84,Sidney Moncrief,MIL,DPOY,,moncrsi01
+878,1984-85,Sidney Moncrief,,All-Defensive,,moncrsi01
+879,1985-86,Sidney Moncrief,,All-Defensive,,moncrsi01
+880,1971-72,Sidney Wicks,POR,ROY,,wickssi01
+881,1975-76,Slick Watts,,All-Defensive,,wattssl01
+882,1969-70,Spencer Haywood,,All-NBA,,haywosp01
+883,1971-72,Spencer Haywood,,All-NBA,,haywosp01
+884,1972-73,Spencer Haywood,,All-NBA,,haywosp01
+885,2014-15,Stephen Curry,,All-NBA,,curryst01
+886,2014-15,Stephen Curry,GSW,MVP,,curryst01
+887,2015-16,Stephen Curry,,All-NBA,,curryst01
+888,2015-16,Stephen Curry,GSW,MVP,,curryst01
+889,2018-19,Stephen Curry,,All-NBA,,curryst01
+890,2020-21,Stephen Curry,,All-NBA,,curryst01
+891,2021-22,Stephen Curry,GSW,FMVP,,curryst01
+892,2004-05,Steve Nash,,All-NBA,,nashst01
+893,2004-05,Steve Nash,PHO,MVP,,nashst01
+894,2005-06,Steve Nash,,All-NBA,,nashst01
+895,2005-06,Steve Nash,PHO,MVP,,nashst01
+896,2006-07,Steve Nash,,All-NBA,,nashst01
+897,1982-83,Terry Cummings,SDC,ROY,,cummite01
+898,1962-63,Terry Dischinger,CHZ,ROY,,dischte01
+899,1997-98,Tim Duncan,,All-NBA,,duncati01
+900,1997-98,Tim Duncan,SAS,ROY,,duncati01
+901,1998-99,Tim Duncan,,All-Defensive,,duncati01
+902,1998-99,Tim Duncan,,All-NBA,,duncati01
+903,1998-99,Tim Duncan,SAS,FMVP,,duncati01
+904,1999-00,Tim Duncan,,All-Defensive,,duncati01
+905,1999-00,Tim Duncan,,All-NBA,,duncati01
+906,2000-01,Tim Duncan,,All-Defensive,,duncati01
+907,2000-01,Tim Duncan,,All-NBA,,duncati01
+908,2001-02,Tim Duncan,,All-Defensive,,duncati01
+909,2001-02,Tim Duncan,,All-NBA,,duncati01
+910,2001-02,Tim Duncan,SAS,MVP,,duncati01
+911,2002-03,Tim Duncan,,All-Defensive,,duncati01
+912,2002-03,Tim Duncan,,All-NBA,,duncati01
+913,2002-03,Tim Duncan,SAS,FMVP,,duncati01
+914,2002-03,Tim Duncan,SAS,MVP,,duncati01
+915,2003-04,Tim Duncan,,All-NBA,,duncati01
+916,2004-05,Tim Duncan,,All-Defensive,,duncati01
+917,2004-05,Tim Duncan,,All-NBA,,duncati01
+918,2004-05,Tim Duncan,SAS,FMVP,,duncati01
+919,2006-07,Tim Duncan,,All-Defensive,,duncati01
+920,2006-07,Tim Duncan,,All-NBA,,duncati01
+921,2007-08,Tim Duncan,,All-Defensive,,duncati01
+922,2012-13,Tim Duncan,,All-NBA,,duncati01
+923,1996-97,Tim Hardaway,,All-NBA,,hardati01
+924,1972-73,Tiny Archibald,,All-NBA,,architi01
+925,1974-75,Tiny Archibald,,All-NBA,,architi01
+926,1975-76,Tiny Archibald,,All-NBA,,architi01
+927,1956-57,Tom Heinsohn,BOS,ROY,,heinsto01
+928,2011-12,Tony Allen,,All-Defensive,,allento01
+929,2006-07,Tony Parker,SAS,FMVP,,parketo01
+930,2001-02,Tracy McGrady,,All-NBA,,mcgratr01
+931,2002-03,Tracy McGrady,,All-NBA,,mcgratr01
+932,1983-84,Tree Rollins,,All-Defensive,,rollitr01
+933,1977-78,Truck Robinson,,All-NBA,,robintr01
+934,2009-10,Tyreke Evans,SAC,ROY,,evansty01
+935,2011-12,Tyson Chandler,NYK,DPOY,,chandty01
+936,2012-13,Tyson Chandler,,All-Defensive,,chandty01
+937,2023-24,Victor Wembanyama,SAS,ROY,,wembavi01
+938,1998-99,Vince Carter,TOR,ROY,,cartevi01
+939,1961-62,Walt Bellamy,CHP,ROY,,bellawa01
+940,1968-69,Walt Frazier,,All-Defensive,,fraziwa01
+941,1969-70,Walt Frazier,,All-Defensive,,fraziwa01
+942,1969-70,Walt Frazier,,All-NBA,,fraziwa01
+943,1970-71,Walt Frazier,,All-Defensive,,fraziwa01
+944,1971-72,Walt Frazier,,All-NBA,,fraziwa01
+945,1972-73,Walt Frazier,,All-Defensive,,fraziwa01
+946,1973-74,Walt Frazier,,All-NBA,,fraziwa01
+947,1974-75,Walt Frazier,,All-Defensive,,fraziwa01
+948,1974-75,Walt Frazier,,All-NBA,,fraziwa01
+949,1973-74,Walt Frazier,,All-Defensive,,fraziwa01
+950,1973-74,Artis Gilmore,,All-Defensive,,gilmoar01
+951,1973-74,Julius Keye,,All-Defensive,,keyeju01
+952,1973-74,Ted McClain,,All-Defensive,,mcclate01
+953,1973-74,Willie Wise,,All-Defensive,,wisewi01
+954,1973-74,Mike Gale, All-Defensive,,,galemi01
+955,1977-78,Walter Davis,PHO,ROY,,daviswa03
+956,1972-73,Warren Jabali,,All-NBA,,jabalwa01
+957,1968-69,Wes Unseld,,All-NBA,,unselwe01
+958,1968-69,Wes Unseld,BAL,MVP,,unselwe01
+959,1968-69,Wes Unseld,BAL,ROY,,unselwe01
+960,1977-78,Wes Unseld,WSB,FMVP,,unselwe01
+961,1974-75,Wil Jones,,All-Defensive,,joneswi02
+962,1972-73,Willie Wise,,All-Defensive,,wisewi01
+963,1964-65,Willis Reed,NYK,ROY,,reedwi01
+964,1969-70,Willis Reed,,All-Defensive,,reedwi01
+965,1969-70,Willis Reed,,All-NBA,,reedwi01
+966,1969-70,Willis Reed,NYK,FMVP,,reedwi01
+967,1969-70,Willis Reed,NYK,MVP,,reedwi01
+968,1972-73,Willis Reed,NYK,FMVP,,reedwi01
+969,1959-60,Wilt Chamberlain,,All-NBA,,chambwi01
+970,1959-60,Wilt Chamberlain,PHW,MVP,,chambwi01
+971,1959-60,Wilt Chamberlain,PHW,ROY,,chambwi01
+972,1960-61,Wilt Chamberlain,,All-NBA,,chambwi01
+973,1961-62,Wilt Chamberlain,,All-NBA,,chambwi01
+974,1963-64,Wilt Chamberlain,,All-NBA,,chambwi01
+975,1965-66,Wilt Chamberlain,,All-NBA,,chambwi01
+976,1965-66,Wilt Chamberlain,PHI,MVP,,chambwi01
+977,1966-67,Wilt Chamberlain,,All-NBA,,chambwi01
+978,1966-67,Wilt Chamberlain,PHI,MVP,,chambwi01
+979,1967-68,Wilt Chamberlain,,All-NBA,,chambwi01
+980,1967-68,Wilt Chamberlain,PHI,MVP,,chambwi01
+981,1971-72,Wilt Chamberlain,LAL,FMVP,,chambwi01
+982,1972-73,Wilt Chamberlain,,All-Defensive,,chambwi01
+983,1957-58,Woody Sauldsberry,PHW,ROY,,sauldwo01
+984,,A.C. Green,,NBA Champion,,greenac01
+985,,A.C. Green,,NBA Champion,,greenac01
+986,,A.C. Green,,NBA Champion,,greenac01
+987,,Aaron Gordon,,NBA Champion,,gordoaa01
+988,,Adam Morrison,,NBA Champion,,morriad01
+989,,Adam Morrison,,NBA Champion,,morriad01
+990,,Adrian Branch,,NBA Champion,,brancad01
+991,,Al Horford,,NBA Champion,,horfoal01
+992,,Alex Caruso,,NBA Champion,,carusal01
+993,,Alonzo Mourning,,NBA Champion,,mournal01
+994,,Andre Iguodala,,NBA Champion,,iguodan01
+995,,Andre Iguodala,,NBA Champion,,iguodan01
+996,,Andre Iguodala,,NBA Champion,,iguodan01
+997,,Andre Iguodala,,NBA Champion,,iguodan01
+998,,Andrew Bogut,,NBA Champion,,bogutan01
+999,,Andrew Bynum,,NBA Champion,,bynuman01
+1000,,Andrew Bynum,,NBA Champion,,bynuman01
+1001,,Andrew Gaze,,NBA Champion,,gazean01
+1002,,Andrew Toney,,NBA Champion,,toneyan01
+1003,,Andrew Wiggins,,NBA Champion,,wiggian01
+1004,,Andy Phillip,,NBA Champion,,phillan01
+1005,,Anthony Davis,,NBA Champion,,davisan02
+1006,,Antoine Walker,,NBA Champion,,walkean02
+1007,,Antonio Daniels,,NBA Champion,,daniean01
+1008,,Arnie Ferrin,,NBA Champion,,ferriar01
+1009,,Arnie Ferrin,,NBA Champion,,ferriar01
+1010,,Arnie Johnson,,NBA Champion,,johnsar01
+1011,,Arnie Risen,,NBA Champion,,risenar01
+1012,,Arnie Risen,,NBA Champion,,risenar01
+1013,,Aron Baynes,,NBA Champion,,baynear01
+1014,,Art Williams,,NBA Champion,,williar01
+1015,,Austin Daye,,NBA Champion,,dayeau01
+1016,,Avery Johnson,,NBA Champion,,johnsav01
+1017,,Axel Toupane,,NBA Champion,,toupaax01
+1018,,B.J. Armstrong,,NBA Champion,,armstbj01
+1019,,B.J. Armstrong,,NBA Champion,,armstbj01
+1020,,B.J. Armstrong,,NBA Champion,,armstbj01
+1021,,Bailey Howell,,NBA Champion,,howelba01
+1022,,Bailey Howell,,NBA Champion,,howelba01
+1023,,Ben Wallace,,NBA Champion,,wallabe01
+1024,,Bennie Swain,,NBA Champion,,swainbe01
+1025,,Beno Udrih,,NBA Champion,,udrihbe01
+1026,,Beno Udrih,,NBA Champion,,udrihbe01
+1027,,Bill Bradley,,NBA Champion,,bradlbi02
+1028,,Bill Bradley,,NBA Champion,,bradlbi01
+1029,,Bill Bradley,,NBA Champion,,bradlbi02
+1030,,Bill Bradley,,NBA Champion,,bradlbi01
+1031,,Bill Bridges,,NBA Champion,,bridgbi01
+1032,,Bill Calhoun,,NBA Champion,,calhobi01
+1033,,Bill Cartwright,,NBA Champion,,cartwbi01
+1034,,Bill Cartwright,,NBA Champion,,cartwbi01
+1035,,Bill Cartwright,,NBA Champion,,cartwbi01
+1036,,Bill Hosket,,NBA Champion,,hoskebi01
+1037,,Bill Laimbeer,,NBA Champion,,laimbbi01
+1038,,Bill Laimbeer,,NBA Champion,,laimbbi01
+1039,,Bill Melchionni,,NBA Champion,,melchbi01
+1040,,Bill Russell,,NBA Champion,,russebi01
+1041,,Bill Russell,,NBA Champion,,russebi01
+1042,,Bill Russell,,NBA Champion,,russebi01
+1043,,Bill Russell,,NBA Champion,,russebi01
+1044,,Bill Russell,,NBA Champion,,russebi01
+1045,,Bill Russell,,NBA Champion,,russebi01
+1046,,Bill Russell,,NBA Champion,,russebi01
+1047,,Bill Russell,,NBA Champion,,russebi01
+1048,,Bill Russell,,NBA Champion,,russebi01
+1049,,Bill Russell,,NBA Champion,,russebi01
+1050,,Bill Russell,,NBA Champion,,russebi01
+1051,,Bill Sharman,,NBA Champion,,sharmbi01
+1052,,Bill Sharman,,NBA Champion,,sharmbi01
+1053,,Bill Sharman,,NBA Champion,,sharmbi01
+1054,,Bill Sharman,,NBA Champion,,sharmbi01
+1055,,Bill Walton,,NBA Champion,,waltobi01
+1056,,Bill Walton,,NBA Champion,,waltobi01
+1057,,Bill Wennington,,NBA Champion,,wennibi01
+1058,,Bill Wennington,,NBA Champion,,wennibi01
+1059,,Bill Wennington,,NBA Champion,,wennibi01
+1060,,Billy Cunningham,,NBA Champion,,cunnibi01
+1061,,Billy Hassett,,NBA Champion,,hassebi01
+1062,,Billy Kenville,,NBA Champion,,kenvibi01
+1063,,Billy Thompson,,NBA Champion,,thompbi01
+1064,,Bison Dele,,NBA Champion,,delebi01
+1065,,Bob Boozer,,NBA Champion,,boozebo01
+1066,,Bob Cousy,,NBA Champion,,cousybo01
+1067,,Bob Cousy,,NBA Champion,,cousybo01
+1068,,Bob Cousy,,NBA Champion,,cousybo01
+1069,,Bob Cousy,,NBA Champion,,cousybo01
+1070,,Bob Cousy,,NBA Champion,,cousybo01
+1071,,Bob Cousy,,NBA Champion,,cousybo01
+1072,,Bob Dandridge,,NBA Champion,,dandrbo01
+1073,,Bob Dandridge,,NBA Champion,,dandrbo01
+1074,,Bob Davies,,NBA Champion,,daviebo01
+1075,,Bob Greacen,,NBA Champion,,greacbo01
+1076,,Bob Gross,,NBA Champion,,grossbo01
+1077,,Bob Hansen,,NBA Champion,,hansebo01
+1078,,Bob Harrison,,NBA Champion,,harribo02
+1079,,Bob Harrison,,NBA Champion,,harribo02
+1080,,Bob Harrison,,NBA Champion,,harribo02
+1081,,Bob McAdoo,,NBA Champion,,mcadobo01
+1082,,Bob McAdoo,,NBA Champion,,mcadobo01
+1083,,Bob Pettit,,NBA Champion,,pettibo01
+1084,,Bob Weiss,,NBA Champion,,weissbo01
+1085,,Bobby Jones,,NBA Champion,,jonesbo01
+1086,,Bobby Jones,,NBA Champion,,jonesbo02
+1087,,Bobby Portis,,NBA Champion,,portibo01
+1088,,Bobby Wanzer,,NBA Champion,,wanzebo01
+1089,,Boris Diaw,,NBA Champion,,diawbo01
+1090,,Brad Holland,,NBA Champion,,hollabr01
+1091,,Brandon Rush,,NBA Champion,,rushbr01
+1092,,Brandon Williams,,NBA Champion,,willibr01
+1093,,Brandon Williams,,NBA Champion,,willibr03
+1094,,Brendan Haywood,,NBA Champion,,haywobr01
+1095,,Brent Barry,,NBA Champion,,barrybr01
+1096,,Brent Barry,,NBA Champion,,barrybr01
+1097,,Brian Cardinal,,NBA Champion,,cardibr01
+1098,,Brian Scalabrine,,NBA Champion,,scalabr01
+1099,,Brian Shaw,,NBA Champion,,shawbr01
+1100,,Brian Shaw,,NBA Champion,,shawbr01
+1101,,Brian Shaw,,NBA Champion,,shawbr01
+1102,,Brook Lopez,,NBA Champion,,lopezbr01
+1103,,Bruce Bowen,,NBA Champion,,bowenbr01
+1104,,Bruce Bowen,,NBA Champion,,bowenbr01
+1105,,Bruce Bowen,,NBA Champion,,bowenbr01
+1106,,Bruce Brown,,NBA Champion,,brownbr01
+1107,,Bryn Forbes,,NBA Champion,,forbebr01
+1108,,Bud Grant,,NBA Champion,,grantbu01
+1109,,Butch Beard,,NBA Champion,,beardbu01
+1110,,Butch Lee,,NBA Champion,,leebu01
+1111,,Byron Scott,,NBA Champion,,scottby01
+1112,,Byron Scott,,NBA Champion,,scottby01
+1113,,Byron Scott,,NBA Champion,,scottby01
+1114,,Carl Braun,,NBA Champion,,braunca01
+1115,,Carl Herrera,,NBA Champion,,herreca01
+1116,,Carl Herrera,,NBA Champion,,herreca01
+1117,,Carlos Clark,,NBA Champion,,clarkca01
+1118,,Caron Butler,,NBA Champion,,butleca01
+1119,,Cazzie Russell,,NBA Champion,,russeca01
+1120,,Cedric Maxwell,,NBA Champion,,maxwece01
+1121,,Cedric Maxwell,,NBA Champion,,maxwece01
+1122,,Channing Frye,,NBA Champion,,fryech01
+1123,,Charles Dudley,,NBA Champion,,dudlech01
+1124,,Charles Johnson,,NBA Champion,,johnsch01
+1125,,Charles Johnson,,NBA Champion,,johnsch01
+1126,,Charles Jones,,NBA Champion,,jonesch01
+1127,,Charles Jones,,NBA Champion,,jonesch02
+1128,,Charles Jones,,NBA Champion,,jonesch03
+1129,,Charlie Scott,,NBA Champion,,scottch01
+1130,,Chauncey Billups,,NBA Champion,,billuch01
+1131,,Chet Walker,,NBA Champion,,walkech01
+1132,,Chris Andersen,,NBA Champion,,anderch01
+1133,,Chris Bosh,,NBA Champion,,boshch01
+1134,,Chris Bosh,,NBA Champion,,boshch01
+1135,,Chris Boucher,,NBA Champion,,bouchch01
+1136,,Chris Boucher,,NBA Champion,,bouchch01
+1137,,Chris Chiozza,,NBA Champion,,chiozch01
+1138,,Chris Ford,,NBA Champion,,fordch01
+1139,,Chris Jent,,NBA Champion,,jentch01
+1140,,Christian Braun,,NBA Champion,,braunch01
+1141,,Chuck Nevitt,,NBA Champion,,nevitch01
+1142,,Chuck Share,,NBA Champion,,sharech01
+1143,,Chucky Brown,,NBA Champion,,brownch01
+1144,,Clay Johnson,,NBA Champion,,johnscl02
+1145,,Clemon Johnson,,NBA Champion,,johnscl01
+1146,,Cliff Hagan,,NBA Champion,,hagancl01
+1147,,Cliff Levingston,,NBA Champion,,levincl01
+1148,,Cliff Levingston,,NBA Champion,,levincl01
+1149,,Clifford Ray,,NBA Champion,,raycl01
+1150,,Clint Richardson,,NBA Champion,,richacl01
+1151,,Clyde Drexler,,NBA Champion,,drexlcl01
+1152,,Clyde Lovellette,,NBA Champion,,lovelcl01
+1153,,Clyde Lovellette,,NBA Champion,,lovelcl01
+1154,,Clyde Lovellette,,NBA Champion,,lovelcl01
+1155,,Collin Gillespie,,NBA Champion,,gilleco01
+1156,,Corey Brewer,,NBA Champion,,breweco01
+1157,,Corey Williams,,NBA Champion,,willico01
+1158,,Corky Calhoun,,NBA Champion,,calhoco01
+1159,,Corliss Williamson,,NBA Champion,,willico02
+1160,,Cory Joseph,,NBA Champion,,josepco01
+1161,,Craig Hodges,,NBA Champion,,hodgecr01
+1162,,Craig Hodges,,NBA Champion,,hodgecr01
+1163,,D.J. Mbenga,,NBA Champion,,mbengdj01
+1164,,D.J. Mbenga,,NBA Champion,,mbengdj01
+1165,,Dahntay Jones,,NBA Champion,,jonesda02
+1166,,Damian Jones,,NBA Champion,,jonesda03
+1167,,Damian Jones,,NBA Champion,,jonesda03
+1168,,Damion James,,NBA Champion,,jamesda01
+1169,,Damion Lee,,NBA Champion,,leeda03
+1170,,Dan Swartz,,NBA Champion,,swartda01
+1171,,Danny Ainge,,NBA Champion,,aingeda01
+1172,,Danny Ainge,,NBA Champion,,aingeda01
+1173,,Danny Ferry,,NBA Champion,,ferryda01
+1174,,Danny Green,,NBA Champion,,greenda02
+1175,,Danny Green,,NBA Champion,,greenda02
+1176,,Danny Green,,NBA Champion,,greenda02
+1177,,Darko Miličić,,NBA Champion,,milicda01
+1178,,Darrell Walker,,NBA Champion,,walkeda01
+1179,,Darvin Ham,,NBA Champion,,hamda01
+1180,,Dave Cowens,,NBA Champion,,cowenda01
+1181,,Dave Cowens,,NBA Champion,,cowenda01
+1182,,Dave DeBusschere,,NBA Champion,,debusda01
+1183,,Dave DeBusschere,,NBA Champion,,debusda01
+1184,,Dave Gambee,,NBA Champion,,gambeda01
+1185,,Dave Greenwood,,NBA Champion,,greenda01
+1186,,Dave Stallworth,,NBA Champion,,stallda01
+1187,,Dave Twardzik,,NBA Champion,,twardda01
+1188,,David Lee,,NBA Champion,,leeda02
+1189,,David Robinson,,NBA Champion,,robinda01
+1190,,David Robinson,,NBA Champion,,robinda01
+1191,,David Thirdkill,,NBA Champion,,thirdda01
+1192,,David West,,NBA Champion,,westda01
+1193,,David West,,NBA Champion,,westda01
+1194,,DeAndre Jordan,,NBA Champion,,jordade01
+1195,,DeShawn Stevenson,,NBA Champion,,stevede01
+1196,,Dean Meminger,,NBA Champion,,meminde01
+1197,,Dennis Awtrey,,NBA Champion,,awtrede01
+1198,,Dennis Hopson,,NBA Champion,,hopsode01
+1199,,Dennis Johnson,,NBA Champion,,johnsde01
+1200,,Dennis Johnson,,NBA Champion,,johnsde01
+1201,,Dennis Johnson,,NBA Champion,,johnsde01
+1202,,Dennis Rodman,,NBA Champion,,rodmade01
+1203,,Dennis Rodman,,NBA Champion,,rodmade01
+1204,,Dennis Rodman,,NBA Champion,,rodmade01
+1205,,Dennis Rodman,,NBA Champion,,rodmade01
+1206,,Dennis Rodman,,NBA Champion,,rodmade01
+1207,,Derek Anderson,,NBA Champion,,anderde01
+1208,,Derek Fisher,,NBA Champion,,fishede01
+1209,,Derek Fisher,,NBA Champion,,fishede01
+1210,,Derek Fisher,,NBA Champion,,fishede01
+1211,,Derek Fisher,,NBA Champion,,fishede01
+1212,,Derek Fisher,,NBA Champion,,fishede01
+1213,,Derrek Dickey,,NBA Champion,,dickede01
+1214,,Derrick White,,NBA Champion,,whitede01
+1215,,Devean George,,NBA Champion,,georgde01
+1216,,Devean George,,NBA Champion,,georgde01
+1217,,Devean George,,NBA Champion,,georgde01
+1218,,Devin Brown,,NBA Champion,,brownde02
+1219,,Devontae Cacok,,NBA Champion,,cacokde01
+1220,,Dexter Pittman,,NBA Champion,,pittmde01
+1221,,Dick Barnett,,NBA Champion,,barnedi01
+1222,,Dick Barnett,,NBA Champion,,barnedi01
+1223,,Dick Cunningham,,NBA Champion,,cunnidi01
+1224,,Dick Farley,,NBA Champion,,farledi01
+1225,,Dick Hemric,,NBA Champion,,hemridi01
+1226,,Dick Schnittker,,NBA Champion,,schnidi01
+1227,,Dick Schnittker,,NBA Champion,,schnidi01
+1228,,Dick Snyder,,NBA Champion,,snydedi01
+1229,,Dickey Simpkins,,NBA Champion,,simpkdi01
+1230,,Dickey Simpkins,,NBA Champion,,simpkdi01
+1231,,Dickey Simpkins,,NBA Champion,,simpkdi01
+1232,,Dion Waiters,,NBA Champion,,waitedi01
+1233,,Dirk Nowitzki,,NBA Champion,,nowitdi01
+1234,,Dolph Schayes,,NBA Champion,,schaydo01
+1235,,Dominique Jones,,NBA Champion,,jonesdo02
+1236,,Don Carlson,,NBA Champion,,carlsdo01
+1237,,Don Carlson,,NBA Champion,,carlsdo01
+1238,,Don Chaney,,NBA Champion,,chanedo01
+1239,,Don Chaney,,NBA Champion,,chanedo01
+1240,,Don May,,NBA Champion,,maydo01
+1241,,Don Nelson,,NBA Champion,,nelsodo01
+1242,,Don Nelson,,NBA Champion,,nelsodo01
+1243,,Don Nelson,,NBA Champion,,nelsodo01
+1244,,Don Nelson,,NBA Champion,,nelsodo01
+1245,,Don Nelson,,NBA Champion,,nelsodo01
+1246,,Donte DiVincenzo,,NBA Champion,,divindo01
+1247,,Dorell Wright,,NBA Champion,,wrighdo01
+1248,,Draymond Green,,NBA Champion,,greendr01
+1249,,Draymond Green,,NBA Champion,,greendr01
+1250,,Draymond Green,,NBA Champion,,greendr01
+1251,,Draymond Green,,NBA Champion,,greendr01
+1252,,Drew Peterson,,NBA Champion,,peterdr01
+1253,,Dwight Howard,,NBA Champion,,howardw01
+1254,,Dwyane Wade,,NBA Champion,,wadedw01
+1255,,Dwyane Wade,,NBA Champion,,wadedw01
+1256,,Dwyane Wade,,NBA Champion,,wadedw01
+1257,,Earl Cureton,,NBA Champion,,curetea01
+1258,,Earl Cureton,,NBA Champion,,curetea01
+1259,,Earl Lloyd,,NBA Champion,,lloydea01
+1260,,Earl Monroe,,NBA Champion,,monroea01
+1261,,Ed Macauley,,NBA Champion,,macaued01
+1262,,Ed Nealy,,NBA Champion,,nealyed01
+1263,,Eddie House,,NBA Champion,,houseed01
+1264,,Eddie Jordan,,NBA Champion,,jordaed01
+1265,,Eddy Curry,,NBA Champion,,curryed01
+1266,,Elden Campbell,,NBA Champion,,campbel01
+1267,,Elijah Bryant,,NBA Champion,,bryanel01
+1268,,Elvin Hayes,,NBA Champion,,hayesel01
+1269,,Em Bryant,,NBA Champion,,bryanem01
+1270,,Eric Fernsten,,NBA Champion,,fernser01
+1271,,Eric Moreland,,NBA Champion,,moreler01
+1272,,Eric Riley,,NBA Champion,,rileyer01
+1273,,Ernie Beck,,NBA Champion,,becker01
+1274,,Fabricio Oberto,,NBA Champion,,obertfa01
+1275,,Fennis Dembo,,NBA Champion,,dembofe01
+1276,,Festus Ezeli,,NBA Champion,,ezelife01
+1277,,Flynn Robinson,,NBA Champion,,robinfl01
+1278,,Francisco Elson,,NBA Champion,,elsonfr01
+1279,,Frank Ramsey,,NBA Champion,,ramsefr01
+1280,,Frank Ramsey,,NBA Champion,,ramsefr01
+1281,,Frank Ramsey,,NBA Champion,,ramsefr01
+1282,,Frank Ramsey,,NBA Champion,,ramsefr01
+1283,,Frank Ramsey,,NBA Champion,,ramsefr01
+1284,,Frank Ramsey,,NBA Champion,,ramsefr01
+1285,,Frank Ramsey,,NBA Champion,,ramsefr01
+1286,,Franklin Edwards,,NBA Champion,,edwarfr01
+1287,,Fred Brown,,NBA Champion,,brownfr01
+1288,,Fred VanVleet,,NBA Champion,,vanvlfr01
+1289,,Gabe Pruitt,,NBA Champion,,pruitga01
+1290,,Gail Goodrich,,NBA Champion,,goodrga01
+1291,,Gary Payton,,NBA Champion,,paytoga01
+1292,,Gary Payton II,,NBA Champion,,paytoga02
+1293,,Gary Phillips,,NBA Champion,,phillga01
+1294,,Gene Conley,,NBA Champion,,conlege01
+1295,,Gene Conley,,NBA Champion,,conlege01
+1296,,Gene Conley,,NBA Champion,,conlege01
+1297,,Gene Guarilia,,NBA Champion,,guarige01
+1298,,Gene Guarilia,,NBA Champion,,guarige01
+1299,,Gene Guarilia,,NBA Champion,,guarige01
+1300,,Gene Guarilia,,NBA Champion,,guarige01
+1301,,George Dempsey,,NBA Champion,,dempsge01
+1302,,George Johnson,,NBA Champion,,johnsge01
+1303,,George Johnson,,NBA Champion,,johnsge02
+1304,,George Johnson,,NBA Champion,,johnsge03
+1305,,George King,,NBA Champion,,kingge01
+1306,,George King,,NBA Champion,,kingge03
+1307,,George Mikan,,NBA Champion,,mikange01
+1308,,George Mikan,,NBA Champion,,mikange01
+1309,,George Mikan,,NBA Champion,,mikange01
+1310,,George Mikan,,NBA Champion,,mikange01
+1311,,George Mikan,,NBA Champion,,mikange01
+1312,,Gerald Henderson,,NBA Champion,,hendege01
+1313,,Gerald Henderson,,NBA Champion,,hendege02
+1314,,Gerald Henderson,,NBA Champion,,hendege01
+1315,,Gerald Henderson,,NBA Champion,,hendege02
+1316,,Gerald Henderson,,NBA Champion,,hendege01
+1317,,Gerald Henderson,,NBA Champion,,hendege02
+1318,,Gerard King,,NBA Champion,,kingge02
+1319,,Giannis Antetokounmpo,,NBA Champion,,antetgi01
+1320,,Glen Davis,,NBA Champion,,davisgl01
+1321,,Glen Rice,,NBA Champion,,ricegl01
+1322,,Glenn McDonald,,NBA Champion,,mcdongl01
+1323,,Glenn Robinson,,NBA Champion,,robingl01
+1324,,Greg Ballard,,NBA Champion,,ballagr01
+1325,,Greg Foster,,NBA Champion,,fostegr01
+1326,,Greg Kite,,NBA Champion,,kitegr01
+1327,,Greg Kite,,NBA Champion,,kitegr01
+1328,,Greg Smith,,NBA Champion,,smithgr01
+1329,,Greg Smith,,NBA Champion,,smithgr02
+1330,,Gus Williams,,NBA Champion,,willigu01
+1331,,Hakeem Olajuwon,,NBA Champion,,olajuha01
+1332,,Hakeem Olajuwon,,NBA Champion,,olajuha01
+1333,,Hal Greer,,NBA Champion,,greerha01
+1334,,Hank Finkel,,NBA Champion,,finkeha01
+1335,,Happy Hairston,,NBA Champion,,hairsha01
+1336,,Harrison Barnes,,NBA Champion,,barneha02
+1337,,Harthorne Wingo,,NBA Champion,,wingoha01
+1338,,Henry Bibby,,NBA Champion,,bibbyhe01
+1339,,Herm Gilliam,,NBA Champion,,gillihe01
+1340,,Herm Schaefer,,NBA Champion,,schaehe01
+1341,,Herm Schaefer,,NBA Champion,,schaehe01
+1342,,Horace Grant,,NBA Champion,,grantho01
+1343,,Horace Grant,,NBA Champion,,grantho01
+1344,,Horace Grant,,NBA Champion,,grantho01
+1345,,Horace Grant,,NBA Champion,,grantho01
+1346,,Howie Schultz,,NBA Champion,,schulho01
+1347,,Ian Clark,,NBA Champion,,clarkia01
+1348,,Ian Mahinmi,,NBA Champion,,mahinia01
+1349,,Iman Shumpert,,NBA Champion,,shumpim01
+1350,,Isaiah Rider,,NBA Champion,,rideris01
+1351,,Ish Smith,,NBA Champion,,smithis01
+1352,,Isiah Thomas,,NBA Champion,,thomais01
+1353,,Isiah Thomas,,NBA Champion,,thomais01
+1354,,J.J. Barea,,NBA Champion,,bareajo01
+1355,,J.R. Smith,,NBA Champion,,smithjr01
+1356,,J.R. Smith,,NBA Champion,,smithjr01
+1357,,JD Davison,,NBA Champion,,davisjd01
+1358,,JaVale McGee,,NBA Champion,,mcgeeja01
+1359,,JaVale McGee,,NBA Champion,,mcgeeja01
+1360,,JaVale McGee,,NBA Champion,,mcgeeja01
+1361,,Jack Coleman,,NBA Champion,,colemja01
+1362,,Jack Coleman,,NBA Champion,,colemja01
+1363,,Jack George,,NBA Champion,,georgja01
+1364,,Jack Haley,,NBA Champion,,haleyja01
+1365,,Jack McMahon,,NBA Champion,,mcmahja01
+1366,,Jack Nichols,,NBA Champion,,nichoja01
+1367,,Jack Sikma,,NBA Champion,,sikmaja01
+1368,,Jack White,,NBA Champion,,whiteja03
+1369,,Jackie Butler,,NBA Champion,,butleja01
+1370,,Jackie Moore,,NBA Champion,,mooreja01
+1371,,Jackie Robinson,,NBA Champion,,robinja01
+1372,,Jacque Vaughn,,NBA Champion,,vaughja01
+1373,,Jaden Springer,,NBA Champion,,sprinja01
+1374,,Jamaal Wilkes,,NBA Champion,,wilkeja01
+1375,,Jamaal Wilkes,,NBA Champion,,wilkeja01
+1376,,Jamaal Wilkes,,NBA Champion,,wilkeja01
+1377,,Jamaal Wilkes,,NBA Champion,,wilkeja01
+1378,,Jamal Murray,,NBA Champion,,murraja01
+1379,,James Edwards,,NBA Champion,,edwarja01
+1380,,James Edwards,,NBA Champion,,edwarja01
+1381,,James Edwards,,NBA Champion,,edwarja01
+1382,,James Jones,,NBA Champion,,jonesja02
+1383,,James Jones,,NBA Champion,,jonesja02
+1384,,James Jones,,NBA Champion,,jonesja02
+1385,,James Michael McAdoo,,NBA Champion,,mcadoja01
+1386,,James Michael McAdoo,,NBA Champion,,mcadoja01
+1387,,James Posey,,NBA Champion,,poseyja01
+1388,,James Posey,,NBA Champion,,poseyja01
+1389,,James White,,NBA Champion,,whiteja02
+1390,,James Wiseman,,NBA Champion,,wisemja01
+1391,,James Worthy,,NBA Champion,,worthja01
+1392,,James Worthy,,NBA Champion,,worthja01
+1393,,James Worthy,,NBA Champion,,worthja01
+1394,,Jared Dudley,,NBA Champion,,dudleja01
+1395,,Jaren Jackson,,NBA Champion,,jacksja01
+1396,,Jarvis Varnado,,NBA Champion,,varnaja01
+1397,,Jason Caffey,,NBA Champion,,caffeja01
+1398,,Jason Caffey,,NBA Champion,,caffeja01
+1399,,Jason Kapono,,NBA Champion,,kaponja01
+1400,,Jason Kidd,,NBA Champion,,kiddja01
+1401,,Jason Terry,,NBA Champion,,terryja01
+1402,,Jason Williams,,NBA Champion,,willija02
+1403,,Jaylen Brown,,NBA Champion,,brownja02
+1404,,Jayson Tatum,,NBA Champion,,tatumja01
+1405,,Jeff Ayres,,NBA Champion,,pendeje02
+1406,,Jeff Green,,NBA Champion,,greenje02
+1407,,Jeff Lamp,,NBA Champion,,lampje01
+1408,,Jeff Mullins,,NBA Champion,,mullije01
+1409,,Jeff Teague,,NBA Champion,,teaguje01
+1410,,Jeff Webb,,NBA Champion,,webbje01
+1411,,Jelani McCoy,,NBA Champion,,mccoyje01
+1412,,Jeremy Lin,,NBA Champion,,linje01
+1413,,Jerome Anderson,,NBA Champion,,anderje01
+1414,,Jerome Kersey,,NBA Champion,,kerseje01
+1415,,Jerry Lucas,,NBA Champion,,lucasje01
+1416,,Jerry Sichting,,NBA Champion,,sichtje01
+1417,,Jerry West,,NBA Champion,,westje01
+1418,,Jim Ard,,NBA Champion,,ardji01
+1419,,Jim Barnes,,NBA Champion,,barneji01
+1420,,Jim Brewer,,NBA Champion,,breweji01
+1421,,Jim Chones,,NBA Champion,,choneji01
+1422,,Jim Cleamons,,NBA Champion,,cleamji01
+1423,,Jim Holstein,,NBA Champion,,holstji01
+1424,,Jim Holstein,,NBA Champion,,holstji01
+1425,,Jim Loscutoff,,NBA Champion,,loscuji01
+1426,,Jim Loscutoff,,NBA Champion,,loscuji01
+1427,,Jim Loscutoff,,NBA Champion,,loscuji01
+1428,,Jim Loscutoff,,NBA Champion,,loscuji01
+1429,,Jim Loscutoff,,NBA Champion,,loscuji01
+1430,,Jim Loscutoff,,NBA Champion,,loscuji01
+1431,,Jim Loscutoff,,NBA Champion,,loscuji01
+1432,,Jim McMillian,,NBA Champion,,mcmilji01
+1433,,Jim Pollard,,NBA Champion,,pollaji01
+1434,,Jim Pollard,,NBA Champion,,pollaji01
+1435,,Jim Pollard,,NBA Champion,,pollaji01
+1436,,Jim Pollard,,NBA Champion,,pollaji01
+1437,,Jim Pollard,,NBA Champion,,pollaji01
+1438,,Jim Tucker,,NBA Champion,,tuckeji01
+1439,,Jo Jo White,,NBA Champion,,whitejo01
+1440,,Jo Jo White,,NBA Champion,,whitejo01
+1441,,Jodie Meeks,,NBA Champion,,meeksjo01
+1442,,Joe Dumars,,NBA Champion,,dumarjo01
+1443,,Joe Dumars,,NBA Champion,,dumarjo01
+1444,,Joe Graboski,,NBA Champion,,grabojo01
+1445,,Joe Hassett,,NBA Champion,,hassejo01
+1446,,Joe Hutton,,NBA Champion,,huttojo01
+1447,,Joe Kleine,,NBA Champion,,kleinjo01
+1448,,Joe McNamee,,NBA Champion,,mcnamjo01
+1449,,Joe Pace,,NBA Champion,,pacejo01
+1450,,Joel Anthony,,NBA Champion,,anthojo01
+1451,,Joel Anthony,,NBA Champion,,anthojo01
+1452,,John Celestand,,NBA Champion,,celesjo01
+1453,,John Gianelli,,NBA Champion,,gianejo01
+1454,,John Havlicek,,NBA Champion,,havlijo01
+1455,,John Havlicek,,NBA Champion,,havlijo01
+1456,,John Havlicek,,NBA Champion,,havlijo01
+1457,,John Havlicek,,NBA Champion,,havlijo01
+1458,,John Havlicek,,NBA Champion,,havlijo01
+1459,,John Havlicek,,NBA Champion,,havlijo01
+1460,,John Havlicek,,NBA Champion,,havlijo01
+1461,,John Havlicek,,NBA Champion,,havlijo01
+1462,,John Johnson,,NBA Champion,,johnsjo01
+1463,,John Long,,NBA Champion,,longjo01
+1464,,John Paxson,,NBA Champion,,paxsojo01
+1465,,John Paxson,,NBA Champion,,paxsojo01
+1466,,John Paxson,,NBA Champion,,paxsojo01
+1467,,John Richter,,NBA Champion,,richtjo01
+1468,,John Salley,,NBA Champion,,sallejo01
+1469,,John Salley,,NBA Champion,,sallejo01
+1470,,John Salley,,NBA Champion,,sallejo01
+1471,,John Salley,,NBA Champion,,sallejo01
+1472,,John Thompson,,NBA Champion,,thompjo01
+1473,,John Thompson,,NBA Champion,,thompjo01
+1474,,John Trapp,,NBA Champion,,trappjo01
+1475,,John Warren,,NBA Champion,,warrejo01
+1476,,Johnny Davis,,NBA Champion,,davisjo01
+1477,,Johnny Davis,,NBA Champion,,davisjo06
+1478,,Johnny Jones,,NBA Champion,,jonesjo01
+1479,,Johnny McCarthy,,NBA Champion,,mccarjo01
+1480,,Jon McGlocklin,,NBA Champion,,mcglojo01
+1481,,Jonathan Kuminga,,NBA Champion,,kuminjo01
+1482,,Jordan Bell,,NBA Champion,,belljo01
+1483,,Jordan Farmar,,NBA Champion,,farmajo01
+1484,,Jordan Farmar,,NBA Champion,,farmajo01
+1485,,Jordan Loyd,,NBA Champion,,loydjo01
+1486,,Jordan McRae,,NBA Champion,,mcraejo01
+1487,,Jordan Nwora,,NBA Champion,,nworajo01
+1488,,Jordan Poole,,NBA Champion,,poolejo01
+1489,,Jordan Walsh,,NBA Champion,,walshjo01
+1490,,Josh Powell,,NBA Champion,,poweljo01
+1491,,Josh Powell,,NBA Champion,,poweljo01
+1492,,Jrue Holiday,,NBA Champion,,holidjr01
+1493,,Jrue Holiday,,NBA Champion,,holidjr01
+1494,,Juan Toscano-Anderson,,NBA Champion,,toscaju01
+1495,,Jud Buechler,,NBA Champion,,buechju01
+1496,,Jud Buechler,,NBA Champion,,buechju01
+1497,,Jud Buechler,,NBA Champion,,buechju01
+1498,,Julius Erving,,NBA Champion,,ervinju01
+1499,,Justin Holiday,,NBA Champion,,holidju01
+1500,,Justin Jackson,,NBA Champion,,jacksju01
+1501,,Juwan Howard,,NBA Champion,,howarju01
+1502,,Juwan Howard,,NBA Champion,,howarju01
+1503,,K.C. Jones,,NBA Champion,,joneskc01
+1504,,K.C. Jones,,NBA Champion,,joneskc01
+1505,,K.C. Jones,,NBA Champion,,joneskc01
+1506,,K.C. Jones,,NBA Champion,,joneskc01
+1507,,K.C. Jones,,NBA Champion,,joneskc01
+1508,,K.C. Jones,,NBA Champion,,joneskc01
+1509,,K.C. Jones,,NBA Champion,,joneskc01
+1510,,K.C. Jones,,NBA Champion,,joneskc01
+1511,,Kareem Abdul-Jabbar,,NBA Champion,,abdulka01
+1512,,Kareem Abdul-Jabbar,,NBA Champion,,abdulka01
+1513,,Kareem Abdul-Jabbar,,NBA Champion,,abdulka01
+1514,,Kareem Abdul-Jabbar,,NBA Champion,,abdulka01
+1515,,Kareem Abdul-Jabbar,,NBA Champion,,abdulka01
+1516,,Kareem Abdul-Jabbar,,NBA Champion,,abdulka01
+1517,,Kawhi Leonard,,NBA Champion,,leonaka01
+1518,,Kawhi Leonard,,NBA Champion,,leonaka01
+1519,,Keith Booth,,NBA Champion,,boothke01
+1520,,Keith Erickson,,NBA Champion,,erickke01
+1521,,Kendrick Perkins,,NBA Champion,,perkike01
+1522,,Kenny Smith,,NBA Champion,,smithke01
+1523,,Kenny Smith,,NBA Champion,,smithke01
+1524,,Kentavious Caldwell-Pope,,NBA Champion,,caldwke01
+1525,,Kentavious Caldwell-Pope,,NBA Champion,,caldwke01
+1526,,Kevin Durant,,NBA Champion,,duranke01
+1527,,Kevin Durant,,NBA Champion,,duranke01
+1528,,Kevin Garnett,,NBA Champion,,garneke01
+1529,,Kevin Grevey,,NBA Champion,,greveke01
+1530,,Kevin Love,,NBA Champion,,loveke01
+1531,,Kevin McHale,,NBA Champion,,mchalke01
+1532,,Kevin McHale,,NBA Champion,,mchalke01
+1533,,Kevin McHale,,NBA Champion,,mchalke01
+1534,,Kevin McKenna,,NBA Champion,,mckenke01
+1535,,Kevin Stacom,,NBA Champion,,stacoke01
+1536,,Kevin Willis,,NBA Champion,,willike02
+1537,,Kevon Looney,,NBA Champion,,looneke01
+1538,,Kevon Looney,,NBA Champion,,looneke01
+1539,,Kevon Looney,,NBA Champion,,looneke01
+1540,,Khris Middleton,,NBA Champion,,middlkh01
+1541,,Klay Thompson,,NBA Champion,,thompkl01
+1542,,Klay Thompson,,NBA Champion,,thompkl01
+1543,,Klay Thompson,,NBA Champion,,thompkl01
+1544,,Klay Thompson,,NBA Champion,,thompkl01
+1545,,Kobe Bryant,,NBA Champion,,bryanko01
+1546,,Kobe Bryant,,NBA Champion,,bryanko01
+1547,,Kobe Bryant,,NBA Champion,,bryanko01
+1548,,Kobe Bryant,,NBA Champion,,bryanko01
+1549,,Kobe Bryant,,NBA Champion,,bryanko01
+1550,,Kostas Antetokounmpo,,NBA Champion,,antetko01
+1551,,Kristaps Porziņģis,,NBA Champion,,porzikr01
+1552,,Kurt Rambis,,NBA Champion,,rambiku01
+1553,,Kurt Rambis,,NBA Champion,,rambiku01
+1554,,Kurt Rambis,,NBA Champion,,rambiku01
+1555,,Kurt Rambis,,NBA Champion,,rambiku01
+1556,,Kyle Kuzma,,NBA Champion,,kuzmaky01
+1557,,Kyle Lowry,,NBA Champion,,lowryky01
+1558,,Kyrie Irving,,NBA Champion,,irvinky01
+1559,,Lamar Odom,,NBA Champion,,odomla01
+1560,,Lamar Odom,,NBA Champion,,odomla01
+1561,,Larry Bird,,NBA Champion,,birdla01
+1562,,Larry Bird,,NBA Champion,,birdla01
+1563,,Larry Bird,,NBA Champion,,birdla01
+1564,,Larry Costello,,NBA Champion,,costela01
+1565,,Larry Hennessy,,NBA Champion,,hennela01
+1566,,Larry Robinson,,NBA Champion,,robinla01
+1567,,Larry Siegfried,,NBA Champion,,siegfla01
+1568,,Larry Siegfried,,NBA Champion,,siegfla01
+1569,,Larry Siegfried,,NBA Champion,,siegfla01
+1570,,Larry Siegfried,,NBA Champion,,siegfla01
+1571,,Larry Siegfried,,NBA Champion,,siegfla01
+1572,,Larry Spriggs,,NBA Champion,,sprigla01
+1573,,Larry Steele,,NBA Champion,,steella01
+1574,,Larry Wright,,NBA Champion,,wrighla01
+1575,,LeBron James,,NBA Champion,,jamesle01
+1576,,LeBron James,,NBA Champion,,jamesle01
+1577,,LeBron James,,NBA Champion,,jamesle01
+1578,,LeBron James,,NBA Champion,,jamesle01
+1579,,Leandro Barbosa,,NBA Champion,,barbole01
+1580,,Leon Powe,,NBA Champion,,powele01
+1581,,Leroy Ellis,,NBA Champion,,ellisle01
+1582,,Lew Hitch,,NBA Champion,,hitchle01
+1583,,Lew Hitch,,NBA Champion,,hitchle01
+1584,,Lindsey Hunter,,NBA Champion,,hunteli01
+1585,,Lindsey Hunter,,NBA Champion,,hunteli01
+1586,,Linton Johnson,,NBA Champion,,johnsli01
+1587,,Lionel Hollins,,NBA Champion,,hollili01
+1588,,Lloyd Neal,,NBA Champion,,nealll01
+1589,,Lonnie Shelton,,NBA Champion,,sheltlo01
+1590,,Lou Tsioropoulos,,NBA Champion,,tsiorlo01
+1591,,Lou Tsioropoulos,,NBA Champion,,tsiorlo01
+1592,,Luc Longley,,NBA Champion,,longllu01
+1593,,Luc Longley,,NBA Champion,,longllu01
+1594,,Luc Longley,,NBA Champion,,longllu01
+1595,,Lucius Allen,,NBA Champion,,allenlu01
+1596,,Luke Jackson,,NBA Champion,,jackslu01
+1597,,Luke Jackson,,NBA Champion,,jackslu02
+1598,,Luke Kornet,,NBA Champion,,kornelu01
+1599,,Luke Walton,,NBA Champion,,waltolu01
+1600,,Luke Walton,,NBA Champion,,waltolu01
+1601,,M.L. Carr,,NBA Champion,,carrml01
+1602,,M.L. Carr,,NBA Champion,,carrml01
+1603,,Magic Johnson,,NBA Champion,,johnsma02
+1604,,Magic Johnson,,NBA Champion,,johnsma02
+1605,,Magic Johnson,,NBA Champion,,johnsma02
+1606,,Magic Johnson,,NBA Champion,,johnsma02
+1607,,Magic Johnson,,NBA Champion,,johnsma02
+1608,,Mal Graham,,NBA Champion,,grahama01
+1609,,Mal Graham,,NBA Champion,,grahama01
+1610,,Malcolm Miller,,NBA Champion,,millema01
+1611,,Malik Rose,,NBA Champion,,rosema01
+1612,,Malik Rose,,NBA Champion,,rosema01
+1613,,Mamadi Diakite,,NBA Champion,,diakima01
+1614,,Manu Ginóbili,,NBA Champion,,ginobma01
+1615,,Manu Ginóbili,,NBA Champion,,ginobma01
+1616,,Manu Ginóbili,,NBA Champion,,ginobma01
+1617,,Manu Ginóbili,,NBA Champion,,ginobma01
+1618,,Marc Gasol,,NBA Champion,,gasolma01
+1619,,Marc Iavaroni,,NBA Champion,,iavarma01
+1620,,Marco Belinelli,,NBA Champion,,belinma01
+1621,,Mario Chalmers,,NBA Champion,,chalmma01
+1622,,Mario Chalmers,,NBA Champion,,chalmma01
+1623,,Mario Elie,,NBA Champion,,eliema01
+1624,,Mario Elie,,NBA Champion,,eliema01
+1625,,Mario Elie,,NBA Champion,,eliema01
+1626,,Mark Aguirre,,NBA Champion,,aguirma01
+1627,,Mark Aguirre,,NBA Champion,,aguirma01
+1628,,Mark Landsberger,,NBA Champion,,landsma01
+1629,,Mark Landsberger,,NBA Champion,,landsma01
+1630,,Mark Madsen,,NBA Champion,,madsema01
+1631,,Mark Madsen,,NBA Champion,,madsema01
+1632,,Mark McNamara,,NBA Champion,,mcnamma01
+1633,,Markieff Morris,,NBA Champion,,morrima02
+1634,,Marreese Speights,,NBA Champion,,speigma01
+1635,,Marty Byrnes,,NBA Champion,,byrnema01
+1636,,Marv Winkler,,NBA Champion,,winklma01
+1637,,Matt Barnes,,NBA Champion,,barnema02
+1638,,Matt Bonner,,NBA Champion,,bonnema01
+1639,,Matt Bonner,,NBA Champion,,bonnema01
+1640,,Matt Bullard,,NBA Champion,,bullama01
+1641,,Matt Guokas,,NBA Champion,,guokama01
+1642,,Matt Guokas,,NBA Champion,,guokama02
+1643,,Matt Steigenga,,NBA Champion,,steigma01
+1644,,Matthew Dellavedova,,NBA Champion,,dellama01
+1645,,Maurice Cheeks,,NBA Champion,,cheekma01
+1646,,Maurice Lucas,,NBA Champion,,lucasma01
+1647,,McCoy McLemore,,NBA Champion,,mclemmc01
+1648,,Med Park,,NBA Champion,,parkme01
+1649,,Mehmet Okur,,NBA Champion,,okurme01
+1650,,Mel Counts,,NBA Champion,,countme01
+1651,,Mel Counts,,NBA Champion,,countme01
+1652,,Melvin Ely,,NBA Champion,,elyme01
+1653,,Mengke Bateer,,NBA Champion,,bateeme01
+1654,,Metta World Peace,,NBA Champion,,artesro01
+1655,,Michael Cooper,,NBA Champion,,coopemi01
+1656,,Michael Cooper,,NBA Champion,,coopemi01
+1657,,Michael Cooper,,NBA Champion,,coopemi01
+1658,,Michael Cooper,,NBA Champion,,coopemi01
+1659,,Michael Cooper,,NBA Champion,,coopemi01
+1660,,Michael Doleac,,NBA Champion,,doleami01
+1661,,Michael Finley,,NBA Champion,,finlemi01
+1662,,Michael Jordan,,NBA Champion,,jordami01
+1663,,Michael Jordan,,NBA Champion,,jordami01
+1664,,Michael Jordan,,NBA Champion,,jordami01
+1665,,Michael Jordan,,NBA Champion,,jordami01
+1666,,Michael Jordan,,NBA Champion,,jordami01
+1667,,Michael Jordan,,NBA Champion,,jordami01
+1668,,Michael Porter Jr.,,NBA Champion,,portemi01
+1669,,Micheal Williams,,NBA Champion,,willimi02
+1670,,Mike James,,NBA Champion,,jamesmi01
+1671,,Mike James,,NBA Champion,,jamesmi02
+1672,,Mike McGee,,NBA Champion,,mcgeemi01
+1673,,Mike McGee,,NBA Champion,,mcgeemi01
+1674,,Mike Miller,,NBA Champion,,millemi01
+1675,,Mike Miller,,NBA Champion,,millemi01
+1676,,Mike Penberthy,,NBA Champion,,penbemi01
+1677,,Mike Riordan,,NBA Champion,,riordmi01
+1678,,Mike Smrek,,NBA Champion,,smrekmi01
+1679,,Mike Smrek,,NBA Champion,,smrekmi01
+1680,,Mike Wilks,,NBA Champion,,wilksmi01
+1681,,Milt Wagner,,NBA Champion,,wagnemi01
+1682,,Mitch Kupchak,,NBA Champion,,kupchmi01
+1683,,Mitch Kupchak,,NBA Champion,,kupchmi01
+1684,,Mitch Richmond,,NBA Champion,,richmmi01
+1685,,Mo Williams,,NBA Champion,,willima01
+1686,,Moses Malone,,NBA Champion,,malonmo01
+1687,,Moses Moody,,NBA Champion,,moodymo01
+1688,,Mychal Thompson,,NBA Champion,,thompmy01
+1689,,Mychal Thompson,,NBA Champion,,thompmy01
+1690,,Nate Bowman,,NBA Champion,,bowmana01
+1691,,Nazr Mohammed,,NBA Champion,,mohamna01
+1692,,Neemias Queta,,NBA Champion,,quetane01
+1693,,Neil Johnston,,NBA Champion,,johnsne01
+1694,,Nemanja Bjelica,,NBA Champion,,bjeline01
+1695,,Nick Young,,NBA Champion,,youngni01
+1696,,Nikola Jokić,,NBA Champion,,jokicni01
+1697,,Norm Nixon,,NBA Champion,,nixonno01
+1698,,Norm Nixon,,NBA Champion,,nixonno01
+1699,,Norman Powell,,NBA Champion,,powelno01
+1700,,Norris Cole,,NBA Champion,,coleno01
+1701,,Norris Cole,,NBA Champion,,coleno01
+1702,,OG Anunoby,,NBA Champion,,anunoog01
+1703,,Ognjen Kuzmić,,NBA Champion,,kuzmiog01
+1704,,Oscar Robertson,,NBA Champion,,roberos01
+1705,,Oshae Brissett,,NBA Champion,,brissos01
+1706,,Otis Thorpe,,NBA Champion,,thorpot01
+1707,,Otto Porter Jr.,,NBA Champion,,porteot01
+1708,,P.J. Brown,,NBA Champion,,brownpj01
+1709,,P.J. Tucker,,NBA Champion,,tuckepj01
+1710,,Pascal Siakam,,NBA Champion,,siakapa01
+1711,,Pat Connaughton,,NBA Champion,,connapa01
+1712,,Pat Riley,,NBA Champion,,rileypa01
+1713,,Patrick McCaw,,NBA Champion,,mccawpa01
+1714,,Patrick McCaw,,NBA Champion,,mccawpa01
+1715,,Patrick McCaw,,NBA Champion,,mccawpa01
+1716,,Patty Mills,,NBA Champion,,millspa02
+1717,,Pau Gasol,,NBA Champion,,gasolpa01
+1718,,Pau Gasol,,NBA Champion,,gasolpa01
+1719,,Paul Arizin,,NBA Champion,,arizipa01
+1720,,Paul Noel,,NBA Champion,,noelpa01
+1721,,Paul Pierce,,NBA Champion,,piercpa01
+1722,,Paul Seymour,,NBA Champion,,seymopa01
+1723,,Paul Silas,,NBA Champion,,silaspa01
+1724,,Paul Silas,,NBA Champion,,silaspa01
+1725,,Paul Silas,,NBA Champion,,silaspa01
+1726,,Paul Westphal,,NBA Champion,,westppa01
+1727,,Payton Pritchard,,NBA Champion,,pritcpa01
+1728,,Peja Stojaković,,NBA Champion,,stojape01
+1729,,Pep Saul,,NBA Champion,,saulpe01
+1730,,Pep Saul,,NBA Champion,,saulpe01
+1731,,Pep Saul,,NBA Champion,,saulpe01
+1732,,Pep Saul,,NBA Champion,,saulpe01
+1733,,Pete Chilcutt,,NBA Champion,,chilcpe01
+1734,,Peyton Watson,,NBA Champion,,watsope01
+1735,,Phil Chenier,,NBA Champion,,cheniph01
+1736,,Phil Hankinson,,NBA Champion,,hankiph01
+1737,,Phil Jackson,,NBA Champion,,jacksph01
+1738,,Phil Jackson,,NBA Champion,,jacksph01
+1739,,Phil Smith,,NBA Champion,,smithph01
+1740,,Phil Walker,,NBA Champion,,walkeph01
+1741,,Quinn Buckner,,NBA Champion,,bucknqu01
+1742,,Quinn Cook,,NBA Champion,,cookqu01
+1743,,Quinn Cook,,NBA Champion,,cookqu01
+1744,,Quinndary Weatherspoon,,NBA Champion,,weathqu01
+1745,,Rajon Rondo,,NBA Champion,,rondora01
+1746,,Rajon Rondo,,NBA Champion,,rondora01
+1747,,Randy Brown,,NBA Champion,,brownra02
+1748,,Randy Brown,,NBA Champion,,brownra02
+1749,,Randy Brown,,NBA Champion,,brownra02
+1750,,Rashard Lewis,,NBA Champion,,lewisra02
+1751,,Rasheed Wallace,,NBA Champion,,wallara01
+1752,,Rasho Nesterović,,NBA Champion,,nestera01
+1753,,Ray Allen,,NBA Champion,,allenra02
+1754,,Ray Allen,,NBA Champion,,allenra02
+1755,,Red Holzman,,NBA Champion,,holzmre01
+1756,,Red Kerr,,NBA Champion,,kerrre01
+1757,,Red Rocha,,NBA Champion,,rochare01
+1758,,Reggie Jackson,,NBA Champion,,jacksre01
+1759,,Reggie Johnson,,NBA Champion,,johnsre01
+1760,,Rich Johnson,,NBA Champion,,johnsri01
+1761,,Richard Hamilton,,NBA Champion,,hamilri01
+1762,,Richard Jefferson,,NBA Champion,,jefferi01
+1763,,Richard Petruška,,NBA Champion,,petruri01
+1764,,Rick Barry,,NBA Champion,,barryri01
+1765,,Rick Carlisle,,NBA Champion,,carliri01
+1766,,Rick Fox,,NBA Champion,,foxri01
+1767,,Rick Fox,,NBA Champion,,foxri01
+1768,,Rick Fox,,NBA Champion,,foxri01
+1769,,Rick Mahorn,,NBA Champion,,mahorri01
+1770,,Rick Robey,,NBA Champion,,robeyri01
+1771,,Rick Weitzman,,NBA Champion,,weitzri01
+1772,,Robert Horry,,NBA Champion,,horryro01
+1773,,Robert Horry,,NBA Champion,,horryro01
+1774,,Robert Horry,,NBA Champion,,horryro01
+1775,,Robert Horry,,NBA Champion,,horryro01
+1776,,Robert Horry,,NBA Champion,,horryro01
+1777,,Robert Horry,,NBA Champion,,horryro01
+1778,,Robert Horry,,NBA Champion,,horryro01
+1779,,Robert Parish,,NBA Champion,,parisro01
+1780,,Robert Parish,,NBA Champion,,parisro01
+1781,,Robert Parish,,NBA Champion,,parisro01
+1782,,Robert Parish,,NBA Champion,,parisro01
+1783,,Robin Jones,,NBA Champion,,jonesro01
+1784,,Rodney McCray,,NBA Champion,,mccraro01
+1785,,Rodrigue Beaubois,,NBA Champion,,beaubro01
+1786,,Ron Bonham,,NBA Champion,,bonharo01
+1787,,Ron Bonham,,NBA Champion,,bonharo01
+1788,,Ron Harper,,NBA Champion,,harpero01
+1789,,Ron Harper,,NBA Champion,,harpero01
+1790,,Ron Harper,,NBA Champion,,harpero01
+1791,,Ron Harper,,NBA Champion,,harpero01
+1792,,Ron Harper,,NBA Champion,,harpero01
+1793,,Ronnie Lester,,NBA Champion,,lestero01
+1794,,Ronny Turiaf,,NBA Champion,,turiaro01
+1795,,Rusty LaRue,,NBA Champion,,larueru01
+1796,,Sam Cassell,,NBA Champion,,cassesa01
+1797,,Sam Cassell,,NBA Champion,,cassesa01
+1798,,Sam Cassell,,NBA Champion,,cassesa01
+1799,,Sam Hauser,,NBA Champion,,hausesa01
+1800,,Sam Jones,,NBA Champion,,jonessa01
+1801,,Sam Jones,,NBA Champion,,jonessa01
+1802,,Sam Jones,,NBA Champion,,jonessa01
+1803,,Sam Jones,,NBA Champion,,jonessa01
+1804,,Sam Jones,,NBA Champion,,jonessa01
+1805,,Sam Jones,,NBA Champion,,jonessa01
+1806,,Sam Jones,,NBA Champion,,jonessa01
+1807,,Sam Jones,,NBA Champion,,jonessa01
+1808,,Sam Jones,,NBA Champion,,jonessa01
+1809,,Sam Jones,,NBA Champion,,jonessa01
+1810,,Sam Merrill,,NBA Champion,,merrisa01
+1811,,Sam Vincent,,NBA Champion,,vincesa01
+1812,,Samaki Walker,,NBA Champion,,walkesa01
+1813,,Sasha Kaun,,NBA Champion,,kaunsa01
+1814,,Sasha Vujačić,,NBA Champion,,vujacsa01
+1815,,Sasha Vujačić,,NBA Champion,,vujacsa01
+1816,,Scot Pollard,,NBA Champion,,pollasc01
+1817,,Scott Brooks,,NBA Champion,,brooksc01
+1818,,Scott Burrell,,NBA Champion,,burresc01
+1819,,Scott Hastings,,NBA Champion,,hastisc01
+1820,,Scott Wedman,,NBA Champion,,wedmasc01
+1821,,Scott Wedman,,NBA Champion,,wedmasc01
+1822,,Scott Williams,,NBA Champion,,willisc01
+1823,,Scott Williams,,NBA Champion,,willisc01
+1824,,Scott Williams,,NBA Champion,,willisc01
+1825,,Scottie Pippen,,NBA Champion,,pippesc01
+1826,,Scottie Pippen,,NBA Champion,,pippesc01
+1827,,Scottie Pippen,,NBA Champion,,pippesc01
+1828,,Scottie Pippen,,NBA Champion,,pippesc01
+1829,,Scottie Pippen,,NBA Champion,,pippesc01
+1830,,Scottie Pippen,,NBA Champion,,pippesc01
+1831,,Sean Elliott,,NBA Champion,,elliose01
+1832,,Sean Marks,,NBA Champion,,marksse01
+1833,,Serge Ibaka,,NBA Champion,,ibakase01
+1834,,Shandon Anderson,,NBA Champion,,andersh01
+1835,,Shane Battier,,NBA Champion,,battish01
+1836,,Shane Battier,,NBA Champion,,battish01
+1837,,Shannon Brown,,NBA Champion,,brownsh01
+1838,,Shannon Brown,,NBA Champion,,brownsh01
+1839,,Shaquille O'Neal,,NBA Champion,,onealsh01
+1840,,Shaquille O'Neal,,NBA Champion,,onealsh01
+1841,,Shaquille O'Neal,,NBA Champion,,onealsh01
+1842,,Shaquille O'Neal,,NBA Champion,,onealsh01
+1843,,Shaun Livingston,,NBA Champion,,livinsh01
+1844,,Shaun Livingston,,NBA Champion,,livinsh01
+1845,,Shaun Livingston,,NBA Champion,,livinsh01
+1846,,Shawn Marion,,NBA Champion,,mariosh01
+1847,,Slater Martin,,NBA Champion,,martisl01
+1848,,Slater Martin,,NBA Champion,,martisl01
+1849,,Slater Martin,,NBA Champion,,martisl01
+1850,,Slater Martin,,NBA Champion,,martisl01
+1851,,Slater Martin,,NBA Champion,,martisl01
+1852,,Speedy Claxton,,NBA Champion,,claxtsp01
+1853,,Spencer Haywood,,NBA Champion,,haywosp01
+1854,,Stacey King,,NBA Champion,,kingst01
+1855,,Stacey King,,NBA Champion,,kingst01
+1856,,Stacey King,,NBA Champion,,kingst01
+1857,,Stanislav Medvedenko,,NBA Champion,,medvest01
+1858,,Stanislav Medvedenko,,NBA Champion,,medvest01
+1859,,Stephen Curry,,NBA Champion,,curryst01
+1860,,Stephen Curry,,NBA Champion,,curryst01
+1861,,Stephen Curry,,NBA Champion,,curryst01
+1862,,Stephen Curry,,NBA Champion,,curryst01
+1863,,Stephen Jackson,,NBA Champion,,jacksst02
+1864,,Steve Bracey,,NBA Champion,,bracest01
+1865,,Steve Downing,,NBA Champion,,downist01
+1866,,Steve Kerr,,NBA Champion,,kerrst01
+1867,,Steve Kerr,,NBA Champion,,kerrst01
+1868,,Steve Kerr,,NBA Champion,,kerrst01
+1869,,Steve Kerr,,NBA Champion,,kerrst01
+1870,,Steve Kerr,,NBA Champion,,kerrst01
+1871,,Steve Kuberski,,NBA Champion,,kuberst01
+1872,,Steve Kuberski,,NBA Champion,,kuberst01
+1873,,Steve Smith,,NBA Champion,,smithst01
+1874,,Sun Yue,,NBA Champion,,yuesu01
+1875,,Svi Mykhailiuk,,NBA Champion,,mykhasv01
+1876,,Talen Horton-Tucker,,NBA Champion,,hortota01
+1877,,Tayshaun Prince,,NBA Champion,,princta01
+1878,,Terrel Harris,,NBA Champion,,harrite01
+1879,,Terry Duerod,,NBA Champion,,duerote01
+1880,,Thanasis Antetokounmpo,,NBA Champion,,antetth01
+1881,,Thomas Bryant,,NBA Champion,,bryanth01
+1882,,Tiago Splitter,,NBA Champion,,splitti01
+1883,,Tim Breaux,,NBA Champion,,breauti01
+1884,,Tim Duncan,,NBA Champion,,duncati01
+1885,,Tim Duncan,,NBA Champion,,duncati01
+1886,,Tim Duncan,,NBA Champion,,duncati01
+1887,,Tim Duncan,,NBA Champion,,duncati01
+1888,,Tim Duncan,,NBA Champion,,duncati01
+1889,,Timofey Mozgov,,NBA Champion,,mozgoti01
+1890,,Tiny Archibald,,NBA Champion,,architi01
+1891,,Tom Boswell,,NBA Champion,,bosweto01
+1892,,Tom Gola,,NBA Champion,,golato01
+1893,,Tom Heinsohn,,NBA Champion,,heinsto01
+1894,,Tom Heinsohn,,NBA Champion,,heinsto01
+1895,,Tom Heinsohn,,NBA Champion,,heinsto01
+1896,,Tom Heinsohn,,NBA Champion,,heinsto01
+1897,,Tom Heinsohn,,NBA Champion,,heinsto01
+1898,,Tom Heinsohn,,NBA Champion,,heinsto01
+1899,,Tom Heinsohn,,NBA Champion,,heinsto01
+1900,,Tom Heinsohn,,NBA Champion,,heinsto01
+1901,,Tom Henderson,,NBA Champion,,hendeto01
+1902,,Tom LaGarde,,NBA Champion,,lagarto01
+1903,,Tom Sanders,,NBA Champion,,sandeto01
+1904,,Tom Sanders,,NBA Champion,,sandeto01
+1905,,Tom Sanders,,NBA Champion,,sandeto01
+1906,,Tom Sanders,,NBA Champion,,sandeto01
+1907,,Tom Sanders,,NBA Champion,,sandeto01
+1908,,Tom Sanders,,NBA Champion,,sandeto01
+1909,,Tom Sanders,,NBA Champion,,sandeto01
+1910,,Tom Sanders,,NBA Champion,,sandeto01
+1911,,Tom Thacker,,NBA Champion,,thackto01
+1912,,Toni Kukoč,,NBA Champion,,kukocto01
+1913,,Toni Kukoč,,NBA Champion,,kukocto01
+1914,,Toni Kukoč,,NBA Champion,,kukocto01
+1915,,Tony Allen,,NBA Champion,,allento01
+1916,,Tony Campbell,,NBA Champion,,campbto01
+1917,,Tony Jaros,,NBA Champion,,jarosto01
+1918,,Tony Jaros,,NBA Champion,,jarosto01
+1919,,Tony Massenburg,,NBA Champion,,masseto01
+1920,,Tony Parker,,NBA Champion,,parketo01
+1921,,Tony Parker,,NBA Champion,,parketo01
+1922,,Tony Parker,,NBA Champion,,parketo01
+1923,,Tony Parker,,NBA Champion,,parketo01
+1924,,Travis Knight,,NBA Champion,,knightr01
+1925,,Tremaine Fowlkes,,NBA Champion,,fowlktr01
+1926,,Trent Tucker,,NBA Champion,,tucketr01
+1927,,Trevor Ariza,,NBA Champion,,arizatr01
+1928,,Tristan Thompson,,NBA Champion,,thomptr01
+1929,,Tyronn Lue,,NBA Champion,,luety01
+1930,,Tyronn Lue,,NBA Champion,,luety01
+1931,,Tyson Chandler,,NBA Champion,,chandty01
+1932,,Udonis Haslem,,NBA Champion,,hasleud01
+1933,,Udonis Haslem,,NBA Champion,,hasleud01
+1934,,Udonis Haslem,,NBA Champion,,hasleud01
+1935,,Vern Mikkelsen,,NBA Champion,,mikkeve01
+1936,,Vern Mikkelsen,,NBA Champion,,mikkeve01
+1937,,Vern Mikkelsen,,NBA Champion,,mikkeve01
+1938,,Vern Mikkelsen,,NBA Champion,,mikkeve01
+1939,,Vernon Maxwell,,NBA Champion,,maxweve01
+1940,,Vernon Maxwell,,NBA Champion,,maxweve01
+1941,,Vinnie Johnson,,NBA Champion,,johnsvi01
+1942,,Vinnie Johnson,,NBA Champion,,johnsvi01
+1943,,Vlatko Čančar,,NBA Champion,,cancavl01
+1944,,Wali Jones,,NBA Champion,,joneswa02
+1945,,Wally Osterkorn,,NBA Champion,,osterwa01
+1946,,Wally Walker,,NBA Champion,,walkewa01
+1947,,Wally Walker,,NBA Champion,,walkewa01
+1948,,Walt Davis,,NBA Champion,,daviswa01
+1949,,Walt Davis,,NBA Champion,,daviswa01
+1950,,Walt Frazier,,NBA Champion,,fraziwa01
+1951,,Walt Frazier,,NBA Champion,,fraziwa01
+1952,,Wayne Embry,,NBA Champion,,embrywa01
+1953,,Wayne Simien,,NBA Champion,,simiewa01
+1954,,Wes Matthews,,NBA Champion,,matthwe01
+1955,,Wes Matthews,,NBA Champion,,matthwe01
+1956,,Wes Unseld,,NBA Champion,,unselwe01
+1957,,Whitey Skoog,,NBA Champion,,skoogwh01
+1958,,Whitey Skoog,,NBA Champion,,skoogwh01
+1959,,Whitey Skoog,,NBA Champion,,skoogwh01
+1960,,Will Perdue,,NBA Champion,,perduwi01
+1961,,Will Perdue,,NBA Champion,,perduwi01
+1962,,Will Perdue,,NBA Champion,,perduwi01
+1963,,Will Perdue,,NBA Champion,,perduwi01
+1964,,William Bedford,,NBA Champion,,bedfowi01
+1965,,Willie Naulls,,NBA Champion,,naullwi01
+1966,,Willie Naulls,,NBA Champion,,naullwi01
+1967,,Willie Naulls,,NBA Champion,,naullwi01
+1968,,Willis Reed,,NBA Champion,,reedwi01
+1969,,Willis Reed,,NBA Champion,,reedwi01
+1970,,Wilt Chamberlain,,NBA Champion,,chambwi01
+1971,,Wilt Chamberlain,,NBA Champion,,chambwi01
+1972,,Win Wilfong,,NBA Champion,,wilfowi01
+1973,,Woody Sauldsberry,,NBA Champion,,sauldwo01
+1974,,Xavier Tillman Sr.,,NBA Champion,,tillmxa01
+1975,,Zaza Pachulia,,NBA Champion,,pachuza01
+1976,,Zaza Pachulia,,NBA Champion,,pachuza01
+1977,,Zeke Nnaji,,NBA Champion,,nnajize01
+1978,,Žan Tabak,,NBA Champion,,tabakza01

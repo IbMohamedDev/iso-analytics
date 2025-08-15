@@ -10,40 +10,68 @@ export const PlayerPercentiles = ({ playerRapportRanking }) => {
     WAR82: 0
   };
 
+  // Helper function to safely convert to number and handle NaN
+  const safeNumber = (value) => {
+    const num = Number(value);
+    return isNaN(num) ? 0 : num;
+  };
+
+  // Helper function to calculate percentile and ensure it's a valid number
+  const calculatePercentile = (value, adjustment, multiplier) => {
+    const safeValue = safeNumber(value);
+    const result = Math.round((safeValue + adjustment) * multiplier);
+    return isNaN(result) ? 0 : result;
+  };
 
   const percentiles = [
-    { key: 'Offense', label: 'Offense', value: Math.round((player.Off + 6) * 10) }, 
-    { key: 'Defense', label: 'Defense', value: Math.round((player.Def + 3) * 15) }, 
-    { key: 'Overall', label: 'Overall', value: Math.round((player.Tot + 7) * 8) },  
+    { 
+      key: 'Offense', 
+      label: 'Offense', 
+      value: calculatePercentile(player.Off, 6, 10)
+    }, 
+    { 
+      key: 'Defense', 
+      label: 'Defense', 
+      value: calculatePercentile(player.Def, 3, 15)
+    }, 
+    { 
+      key: 'Overall', 
+      label: 'Overall', 
+      value: calculatePercentile(player.Tot, 7, 8)
+    },  
     // { key: 'WAR', label: 'WAR', value: Math.round((player.WAR / 3.5) * 100) },     
     // { key: 'WAR82', label: 'WAR/82', value: Math.round((player.WAR82 / 17) * 100)} 
   ];
 
   return (
     <div className="mt-20 w-100">
-    {<h1 className='text-center p-2 mb-5'>2024-25 Regular Season</h1>}
+      <h1 className='text-center p-2 mb-5'>2024-25 Regular Season</h1>
       <div className="space-y-2">
-        {percentiles.map(({ key, label, value }) => (
-          <div key={key} className="flex items-center gap-4">
-            <div className="w-24 text-sm text-gray-600">{label}</div>
-            <div className="flex-1">
-              <div className="h-6 bg-gray-100 relative">
-                <div
-                  className="h-full bg-emerald-400"
-                  style={{
-                    width: `${Math.min(Math.max(value, 0), 100)}%`,
-                    transition: 'width 0.5s ease-out'
-                  }}
-                />
+        {percentiles.map(({ key, label, value }) => {
+          // Ensure value is always a valid number between 0 and 100
+          const displayValue = Math.min(Math.max(safeNumber(value), 0), 100);
+          
+          return (
+            <div key={key} className="flex items-center gap-4">
+              <div className="w-24 text-sm text-gray-600">{label}</div>
+              <div className="flex-1">
+                <div className="h-6 bg-gray-100 relative">
+                  <div
+                    className="h-full bg-emerald-400"
+                    style={{
+                      width: `${displayValue}%`,
+                      transition: 'width 0.5s ease-out'
+                    }}
+                  />
+                </div>
+              </div>
+              <div className="w-12 text-sm text-gray-600 text-right">
+                {displayValue}
               </div>
             </div>
-            <div className="w-12 text-sm text-gray-600 text-right">
-              {Math.min(Math.max(value, 0), 100)}
-            </div>
-          </div>
-        ))}
+          );
+        })}
       </div>
-      
       
       {/* X-axis labels */}
       <div className="flex justify-between mt-2 px-24">
