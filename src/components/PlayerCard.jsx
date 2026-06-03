@@ -22,23 +22,15 @@ export const PlayerCard = ({ playerData }) => {
     setHeadShotUrl(playerData.headshot_url || "");
 
     // Calculate awards
-    let defAward = 0, allNbaAward = 0, mvpAward = 0, champAward = 0, dpoyAward = 0;
-    if (playerData.awards) {
-      playerData.awards.forEach((award) => {
-        if (award.award === "all_defensive") defAward++;
-        else if (award.award === "championships") champAward++;
-        else if (award.award === "all_nba") allNbaAward++;
-        else if (award.award === "mvp") mvpAward++;
-        else if (award.award === "dpoy") dpoyAward++;
-      });
-    }
+  if (playerData.awards && !Array.isArray(playerData.awards)) {
+  const aw = playerData.awards;
+  setAllDef(aw.all_defensive   ?? 0);
+  setAllNba(aw.all_nba         ?? 0);
+  setChamp(aw.championships    ?? 0);
+  setMvp(aw.mvp                ?? 0);
+  setDpoy(aw.dpoy              ?? 0);
+}
 
-    //setting awards
-    setAllDef(defAward);
-    setAllNba(allNbaAward);
-    setChamp(champAward);
-    setMvp(mvpAward);
-    setDpoy(dpoyAward);
 
 
     // Calculate age
