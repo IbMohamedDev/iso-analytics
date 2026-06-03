@@ -144,7 +144,7 @@ setChamp(aw.championships ? (aw.championships > 100 ? 1 : aw.championships) : 0)
           <div className="h-20 flex items-center justify-center">
             <img 
               className={`w-10 ${champ === 0 ? "opacity-25" : "opacity-100"}`}
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Larry_O%27Brien_Championship_Trophy_icon.svg/196px-Larry_O%27Brien_Championship_Trophy_icon.svg.png"
+              src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Larry_O%27Brien_Championship_Trophy_icon.svg"
               alt="Championship Trophy"
             />
           </div>
@@ -161,7 +161,7 @@ setChamp(aw.championships ? (aw.championships > 100 ? 1 : aw.championships) : 0)
             />
           </div>
           <p className={`mt-1 text-center ${mvp == 0 ? "text-gray-400 " : "text-black font-bold"}`}>{mvp}x</p>
-          <p className={`mt-1 text-center ${allNba == 0 ? "text-gray-400 " : "text-black font-bold"}`}>MVP</p>
+          <p className={`mt-1 text-center ${mvp == 0 ? "text-gray-400 " : "text-black font-bold"}`}>MVP</p>
         </div>
 
         <div className="flex flex-col items-center">
