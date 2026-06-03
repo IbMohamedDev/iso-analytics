@@ -140,7 +140,7 @@ export const PlayerCard = ({ playerData }) => {
         </div>
         <div>
           <p className="text-2xl font-bold">{stats.fg_pct}</p>
-          <p className="text-gray-500">%</p>
+          <p className="text-gray-500">FG%</p>
         </div>
       </div>
 
