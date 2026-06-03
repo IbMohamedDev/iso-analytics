@@ -22,11 +22,11 @@ export const PlayerCard = ({ playerData }) => {
     setHeadShotUrl(playerData.headshot_url || "");
 
     // Calculate awards
-  if (playerData.awards && !Array.isArray(playerData.awards)) {
-  const aw = playerData.awards;
+if (playerData.awards?.length > 0) {
+  const aw = playerData.awards[0];
   setAllDef(aw.all_defensive   ?? 0);
   setAllNba(aw.all_nba         ?? 0);
-  setChamp(aw.championships    ?? 0);
+setChamp(aw.championships ? (aw.championships > 100 ? 1 : aw.championships) : 0);
   setMvp(aw.mvp                ?? 0);
   setDpoy(aw.dpoy              ?? 0);
 }
