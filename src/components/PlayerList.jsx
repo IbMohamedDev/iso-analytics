@@ -158,7 +158,7 @@ export const PlayerList = () => {
                 <TableCell>{player.team}</TableCell>
                 <TableCell>{playerStats.pts}</TableCell>
                 <TableCell>{playerStats.fg_pct}</TableCell>
-                <TableCell>{playerStats.}</TableCell>
+                <TableCell>{playerStats.fg3_pct}</TableCell>
                 <TableCell>{playerStats.per}</TableCell>
                 <TableCell>{playerStats.ast}</TableCell>
               </tr>
