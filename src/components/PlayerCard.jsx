@@ -138,10 +138,6 @@ export const PlayerCard = ({ playerData }) => {
           <p className="text-2xl font-bold">{stats.fg3_pct}</p>
           <p className="text-gray-500">3P%</p>
         </div>
-        <div>
-          <p className="text-2xl font-bold">{stats.fg_pct}</p>
-          <p className="text-gray-500">FG%</p>
-        </div>
       </div>
 
       {/* Awards Section */}

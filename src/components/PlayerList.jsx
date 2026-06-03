@@ -10,7 +10,7 @@ export const PlayerList = () => {
   const [currentPage, setCurrentPage] = useState(1);
   const [nameFilter, setNameFilter] = useState('');
   const [teamFilter, setTeamFilter] = useState('');
-  
+
   const [positionFilter, setPositionFilter] = useState('');
   const itemsPerPage = 20;
   //const [playerImages, setPlayerImages] = useState({});
@@ -129,7 +129,7 @@ export const PlayerList = () => {
             <TableCell >Team </TableCell>
             <TableCell >PTS  </TableCell>
             <TableCell>FG% </TableCell>
-            <TableCell>eFG%  </TableCell>
+            <TableCell>FG3% </TableCell>
             <TableCell>PER </TableCell>
             <TableCell >AST </TableCell>
           </tr>
@@ -157,8 +157,8 @@ export const PlayerList = () => {
                 <TableCell>{player.position}</TableCell>
                 <TableCell>{player.team}</TableCell>
                 <TableCell>{playerStats.pts}</TableCell>
-                <TableCell>{playerStats.fg_per}</TableCell>
-                <TableCell>{playerStats.efg_per}</TableCell>
+                <TableCell>{playerStats.fg_pct}</TableCell>
+                <TableCell>{playerStats.}</TableCell>
                 <TableCell>{playerStats.per}</TableCell>
                 <TableCell>{playerStats.ast}</TableCell>
               </tr>
