@@ -22,6 +22,7 @@ async def new_page(browser):
     """Creates a new browser page with custom settings."""
     page = await browser.newPage()
     await page.setUserAgent(USER_AGENT)
+    
     await page.setViewport({"width": 1980, "height": 1080})
     return page
 
