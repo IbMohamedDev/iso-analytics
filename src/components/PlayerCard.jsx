@@ -190,10 +190,10 @@ setChamp(aw.championships ? (aw.championships > 100 ? 1 : aw.championships) : 0)
       </div>
 
       {/* Draft Info */}
-      <div className="border-t border-gray-400 mt-2 pt-1 text-center text-sm font-semibold ">
+      {/* <div className="border-t border-gray-400 mt-2 pt-1 text-center text-sm font-semibold ">
         <p className="uppercase text-gray-600">Drafted</p>
-        <p className="font-bold">No. {player.draft_number} overall, {player.draft_year}</p>
-      </div>
+        <p className="font-bold">No. {player.from-1} overall, {player.draft_year}</p>
+      </div> */}
       
     </div>
   );
