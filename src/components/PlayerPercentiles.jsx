@@ -10,7 +10,7 @@ export const PlayerPercentiles = ({ playerRapportRanking }) => {
     WAR82: 0
   };
 
-  // Helper function to safely convert to number and handle NaN
+  // Helper function to safely convert to number
   const safeNumber = (value) => {
     const num = Number(value);
     return isNaN(num) ? 0 : num;

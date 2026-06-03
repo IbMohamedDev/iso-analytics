@@ -30,6 +30,7 @@ function App() {
         <Route path="/player/:playerId" element={<Dashboard/>}/>
         <Route path='/Compare' element={<Compare/>}/>
         <Route path='/' element={<PlayerList/>}/>
+        
         <Route path='/player/' element={<PlayerList/>}/>
       
       </Routes>

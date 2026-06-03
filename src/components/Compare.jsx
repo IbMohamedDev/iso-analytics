@@ -10,6 +10,7 @@ const fetchPlayers = async () => {
     const response = await fetch(`${apiUrl}/players`);
     if (!response.ok) throw new Error("Failed to fetch players");
     return await response.json();
+    
   } catch (error) {
     console.error("Error fetching players:", error);
     return [];

@@ -19,8 +19,8 @@ export const Dashboard = () => {
           const response = await fetch(`${apiUrl}/player/${playerId}`);
           const data = await response.json();
           
-          console.log('API Response:', data); // Debug log
-          console.log('Shot data from API:', data.shot_data); // Debug log
+          console.log('API Response:', data); 
+          console.log('Shot data from API:', data.shot_data); 
           
           let player_name = data.player.player;
           setCurrentPlayer(player_name);
@@ -28,7 +28,7 @@ export const Dashboard = () => {
           
           // Fix: Use the entire shot_data array, not just the first element
           const shotDataArray = Array.isArray(data.shot_data) ? data.shot_data : [];
-          console.log('Processed shot data:', shotDataArray); // Debug log
+          console.log('Processed shot data:', shotDataArray); 
           setShotData(shotDataArray);
           
         } catch (error) {

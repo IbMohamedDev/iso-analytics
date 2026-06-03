@@ -10,6 +10,7 @@ export const PlayerList = () => {
   const [currentPage, setCurrentPage] = useState(1);
   const [nameFilter, setNameFilter] = useState('');
   const [teamFilter, setTeamFilter] = useState('');
+  
   const [positionFilter, setPositionFilter] = useState('');
   const itemsPerPage = 20;
   //const [playerImages, setPlayerImages] = useState({});

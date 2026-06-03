@@ -9,6 +9,7 @@ export const ShotChart = (props) => {
     const threePointShots = shots.filter(shot => shot && shot.shotPts === 3);
     const twoPointMade = twoPointShots.filter(shot => shot && shot.madeShot).length;
     const threePointMade = threePointShots.filter(shot => shot && shot.madeShot).length;
+    
     const twoPointPercentage = twoPointShots.length > 0 
       ? ((twoPointMade / twoPointShots.length) * 100).toFixed(1) 
       : '0.0';
