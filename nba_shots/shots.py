@@ -2,7 +2,7 @@ import asyncio
 import os
 import json
 import pandas as pd
-from pyppeteer import launch
+from playwright.async_api import async_playwright
 from bs4 import BeautifulSoup
 import aiofiles
 import random
@@ -15,62 +15,55 @@ USER_AGENT = (
 
 # Read player IDs
 player_ids_df = pd.read_csv('updated_players.csv')
-filtered_players = player_ids_df[player_ids_df["To"] == 2025.0]
-player_ids = list(filtered_players["player_id"])
+player_ids = list(player_ids_df["player_id"])
 
 async def new_page(browser):
-    """Creates a new browser page with custom settings."""
-    page = await browser.newPage()
-    await page.setUserAgent(USER_AGENT)
-    
-    await page.setViewport({"width": 1980, "height": 1080})
+    page = await browser.new_page()
+    await page.set_extra_http_headers({"User-Agent": USER_AGENT})
+    await page.set_viewport_size({"width": 1980, "height": 1080})
     return page
 
 async def fetch_url(browser, url):
-    """Fetches a webpage and returns its HTML content."""
     page = await new_page(browser)
-    await page.goto(url, {"timeout": TIMEOUT, "waitUntil": "domcontentloaded"})
+    await page.goto(url, timeout=TIMEOUT, wait_until="domcontentloaded")
     html = await page.content()
     await page.close()
     return html
 
 async def download_shooting_data(browser, player_id):
     """Downloads and saves the shooting data HTML for each player."""
-    url = f"https://www.basketball-reference.com/players/{player_id[0]}/{player_id}/shooting/2025"
-    html_filename = f"shots_{player_id}.html"  # Unique filename per player
+    url = f"https://www.basketball-reference.com/players/{player_id[0]}/{player_id}/shooting/2026"
+    html_filename = f"shots_{player_id}.html"
 
     if os.path.exists(html_filename):
         print(f"Skipping download for {player_id}, file already exists.")
         return
 
     retries = 3
-    delay = 3  # Initial delay of 3 seconds before retrying
+    delay = 3
 
     for attempt in range(retries):
         try:
             print(f"Downloading HTML for {player_id} (Attempt {attempt + 1})...")
             html = await fetch_url(browser, url)
-            
+
             async with aiofiles.open(html_filename, "w", encoding="utf-8") as f:
                 await f.write(html)
 
             print(f"Downloaded HTML for {player_id}.")
-            return  # Exit after successful download
+            return
 
         except Exception as e:
             print(f"Error downloading for {player_id}: {e}")
 
-            # If it's the last attempt, don't retry
             if attempt == retries - 1:
                 print(f"Skipping {player_id} after {retries} attempts.")
                 return
 
-            # Delay between retries with some randomness to avoid hammering the server
             backoff = random.uniform(delay, delay * 2)
             print(f"Retrying in {backoff:.2f} seconds...")
-            await asyncio.sleep(backoff)  # Sleep before retrying
+            await asyncio.sleep(backoff)
 
-        # Increase delay for next retry
         delay *= 2
 
 async def parse_shots(player_id):
@@ -104,34 +97,34 @@ async def parse_shots(player_id):
         shot_pts = 3 if "3-pointer" in tip else 2
 
         shots.append({"x": x, "y": y, "madeShot": made_shot, "shotPts": shot_pts})
-    
+
     return {"playerId": player_id, "shots": shots} if shots else None
 
 async def main():
     """Main function to download and parse shot data."""
     print("Starting browser...")
-    browser = await launch(headless=True)
+    async with async_playwright() as p:
+        browser = await p.chromium.launch(headless=True)
 
-    try:
-        # Step 1: Download HTML for each player with delay between requests
-        for player_id in player_ids:
-            await download_shooting_data(browser, player_id)
-            await asyncio.sleep(random.uniform(2, 5))  # Random delay between 2 to 5 seconds
+        try:
+            # Step 1: Download HTML for each player with delay between requests
+            for player_id in player_ids:
+                await download_shooting_data(browser, player_id)
+                await asyncio.sleep(random.uniform(2, 5))
 
-        # Step 2: Parse HTML files into JSON
-        all_shots = []
-        for player_id in player_ids:
-            shots_data = await parse_shots(player_id)
-            if shots_data:  # Only add if parsing was successful
-                all_shots.append(shots_data)
+            # Step 2: Parse HTML files into JSON
+            all_shots = []
+            for player_id in player_ids:
+                shots_data = await parse_shots(player_id)
+                if shots_data:
+                    all_shots.append(shots_data)
 
-        async with aiofiles.open("shots.json", "w", encoding="utf-8") as f:
-            await f.write(json.dumps(all_shots, indent=2))
-    
-    finally:
-        await browser.close()  # Ensure browser is closed properly
-        print("Done!")
+            async with aiofiles.open("shots.json", "w", encoding="utf-8") as f:
+                await f.write(json.dumps(all_shots, indent=2))
 
-# Ensure we run the event loop properly
+        finally:
+            await browser.close()
+            print("Done!")
+
 if __name__ == "__main__":
     asyncio.run(main())
