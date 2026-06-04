@@ -45,7 +45,7 @@ export const PlayerPercentiles = ({ playerRapportRanking }) => {
 
   return (
     <div className="mt-20 w-100">
-      <h1 className='text-center p-2 mb-5'>2024-25 Regular Season</h1>
+      <h1 className='text-center p-2 mb-5'>2025-26 Regular Season</h1>
       <div className="space-y-2">
         {percentiles.map(({ key, label, value }) => {
           // Ensure value is always a valid number between 0 and 100

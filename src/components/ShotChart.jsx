@@ -9,7 +9,7 @@ export const ShotChart = (props) => {
     const threePointShots = shots.filter(shot => shot && shot.shotPts === 3);
     const twoPointMade = twoPointShots.filter(shot => shot && shot.madeShot).length;
     const threePointMade = threePointShots.filter(shot => shot && shot.madeShot).length;
-    
+
     const twoPointPercentage = twoPointShots.length > 0 
       ? ((twoPointMade / twoPointShots.length) * 100).toFixed(1) 
       : '0.0';
@@ -19,7 +19,7 @@ export const ShotChart = (props) => {
       return (
         <>
           <div className="mt-10 w-150 max-w-3xl mx-auto p-2 flex flex-col items-center ">
-            <h1 className="text-center mb-4">2024-25 Regular Season</h1>
+            <h1 className="text-center mb-4">2025-26 Regular Season</h1>
             
             <svg viewBox="0 0 500 400" className="mt-2">
               <rect x="0" y="0" width="500" height="400" fill="none" stroke="black" strokeWidth="2" />
